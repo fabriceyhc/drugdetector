@@ -29,10 +29,10 @@ class DrugDetector:
                 "Prescription Opioids": "Prescription opioids (only if being misused or used illicitly, not if taken as prescribed) are medications typically prescribed for pain relief but can be highly addictive when misused.",
                 "Cannabis": "Cannabis, also known as marijuana, is often used recreationally or medicinally but can be illegal depending on the jurisdiction.",
                 "Injection Drugs": "Injection drug use (IDU, IVDA, IVDU) refers to the use of drugs administered via needles, often associated with higher risks of infectious diseases.",
-                "General Drugs": "General drug use refers to the use of any illegal or illicit substances."
+                "General Drugs": "General drug use refers to the use of any illegal or illicit substances.",
             }
 
-    def detect(self, medical_text, drugs=None, persona=None, examples=[]):
+    def detect(self, medical_text, drugs=None, persona=None, examples=[], explain=False):
 
         if isinstance(drugs, dict):
             self.drugs = drugs
@@ -74,14 +74,24 @@ class DrugDetector:
             with assistant():
                 lm += f"""\
                 ### Feedback: 
-                {self._generate_select_options(self.drugs)}
+                {self._generate_explanations_and_select_options(self.drugs, explain)}
                 """
             return lm
 
         # Execute the annotation task with the model
         try:
+            start_time = time.time()
             output = self.model + annotation_task(medical_text, persona, examples)
-            return {d: output[d] for d in self.drugs.keys()}
+            time_taken = time.time() - start_time
+            results = {d: output[d] for d in self.drugs.keys()}
+            results.update({
+                "medical_text": medical_text,
+                "time_taken": time_taken,
+            })
+            if explain:
+                explanations = {d: f"{output[f'{d}_explanation'].strip()}." for d in self.drugs.keys()}
+                results.update({f'{d}_explanation': explanations[d] for d in self.drugs.keys()})
+            return results
         except Exception as e:
             print(f"An error occurred during annotation: {e}")
             traceback.print_exc()
@@ -94,11 +104,13 @@ class DrugDetector:
                 feedback_str += f"{drug} Use: {bool(example[drug])}\n"
         return feedback_str
 
-    def _generate_select_options(self, drugs):
-        select_options_str = ""
+    def _generate_explanations_and_select_options(self, drugs, explain):
+        explanation_and_select_options_str = ""
         for drug in drugs.keys():
-            select_options_str += f"{drug} Use: {select(options=['True', 'False'], name=drug)}\n"
-        return select_options_str
+            if explain:
+                explanation_and_select_options_str += f"Explanation for {drug} Use:\n {gen(name=f'{drug}_explanation', stop=[n,'.'])}\n"
+            explanation_and_select_options_str += f"{drug} Use: {select(options=['True', 'False'], name=drug)}\n"
+        return explanation_and_select_options_str
 
 if __name__ == "__main__":
 
@@ -115,5 +127,5 @@ if __name__ == "__main__":
         "Fentanyl": "Fentanyl is a potent synthetic opioid that is highly addictive and can lead to overdose, especially when used illicitly."
     }
 
-    result = detector.detect(medical_text="Patient was using eth and fentanyl for XX mos.", drugs=drugs)
+    result = detector.detect(medical_text="Patient was using ethanol and fentanyl for several months.", drugs=drugs, explain=True)
     print(result)
