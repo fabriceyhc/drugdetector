@@ -13,7 +13,7 @@ n = "\n"
 
 class DrugDetector:
     def __init__(self, 
-                 model_id='TechxGenus/Meta-Llama-3-8B-Instruct-GPTQ', 
+                 model_id='fabriceyhc/Meta-Llama-3-8B-Instruct-DrugDetection-v3', 
                  cache_dir=None, 
                  device_map="auto",
                  drugs=None,
@@ -24,23 +24,26 @@ class DrugDetector:
             cache_dir=cache_dir, 
             device_map=device_map
         )
+        self.default_drugs = {
+            "Heroin": "Heroin is an illegal opioid drug known for its high potential for addiction and overdose.",
+            "Cocaine": "Cocaine is a powerful stimulant drug that is often abused for its euphoric effects.",
+            "Methamphetamine": "Methamphetamine (including illicit amphetamine use, but not prescribed amphetamines for ADHD) is a potent central nervous system stimulant that is highly addictive.",
+            "Benzodiazepine": "Benzodiazepines are a class of psychoactive drugs commonly prescribed for anxiety, insomnia, and other conditions but can be abused for their sedative effects.",
+            "Prescription Opioids": "Prescription opioids (only if being misused or used illicitly, not if taken as prescribed) are medications typically prescribed for pain relief but can be highly addictive when misused.",
+            "Cannabis": "Cannabis, also known as marijuana, is often used recreationally or medicinally but can be illegal depending on the jurisdiction.",
+            "Injection Drugs": "Injection drug use (IDU, IVDA, IVDU) refers to the use of drugs administered via needles, often associated with higher risks of infectious diseases.",
+            "General Drugs": "General drug use refers to the use of any illegal or illicit substances.",
+        }
         self.drugs = drugs
         if self.drugs is None:
-            self.drugs = {
-                "Heroin": "Heroin is an illegal opioid drug known for its high potential for addiction and overdose.",
-                "Cocaine": "Cocaine is a powerful stimulant drug that is often abused for its euphoric effects.",
-                "Methamphetamine": "Methamphetamine (including illicit amphetamine use, but not prescribed amphetamines for ADHD) is a potent central nervous system stimulant that is highly addictive.",
-                "Benzodiazepine": "Benzodiazepines are a class of psychoactive drugs commonly prescribed for anxiety, insomnia, and other conditions but can be abused for their sedative effects.",
-                "Prescription Opioids": "Prescription opioids (only if being misused or used illicitly, not if taken as prescribed) are medications typically prescribed for pain relief but can be highly addictive when misused.",
-                "Cannabis": "Cannabis, also known as marijuana, is often used recreationally or medicinally but can be illegal depending on the jurisdiction.",
-                "Injection Drugs": "Injection drug use (IDU, IVDA, IVDU) refers to the use of drugs administered via needles, often associated with higher risks of infectious diseases.",
-                "General Drugs": "General drug use refers to the use of any illegal or illicit substances.",
-            }
+            self.drugs = self.default_drugs
 
     def detect(self, medical_text, drugs=None, persona=None, examples=[], explain=False):
 
         if isinstance(drugs, dict):
             self.drugs = drugs
+        else:
+            self.drugs = self.default_drugs
                 
         @guidance(dedent=False)
         def annotation_task(lm, medical_text, persona, examples):
