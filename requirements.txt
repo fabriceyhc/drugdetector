@@ -1,0 +1,5 @@
+guidance
+accelerate 
+auto-gptq
+transformers==4.38.2
+optimum
