@@ -1,8 +1,13 @@
+import warnings
+warnings.filterwarnings("ignore")
+
 import time
 import traceback
 import pandas as pd
 import guidance
 from guidance import models, gen, select, user, system, assistant
+from drugdetector.utils import convert_bools_in_dict
+
 
 n = "\n"
 
@@ -83,7 +88,7 @@ class DrugDetector:
             start_time = time.time()
             output = self.model + annotation_task(medical_text, persona, examples)
             time_taken = time.time() - start_time
-            results = {d: output[d] for d in self.drugs.keys()}
+            results = convert_bools_in_dict({d: output[d] for d in self.drugs.keys()})
             results.update({
                 "medical_text": medical_text,
                 "time_taken": time_taken,
@@ -113,6 +118,8 @@ class DrugDetector:
         return explanation_and_select_options_str
 
 if __name__ == "__main__":
+
+    # CUDA_VISIBLE_DEVICES=0 python -m drugdetector.detect
 
     detector = DrugDetector(
         model_id="TechxGenus/Meta-Llama-3-8B-Instruct-GPTQ",
