@@ -8,18 +8,35 @@ This project provides a simple wrapper for performant zero-shot drug detection u
 pip install drugdetector
 ```
 
+Optionally, but recommended is to install CUDA support for `llama-cpp-python` ([source](https://github.com/abetlen/llama-cpp-python)).
+
+```
+pip install llama-cpp-python \
+  --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/<cuda-version>
+```
+
+Where `<cuda-version>` is one of the following:
+
+cu121: CUDA 12.1
+cu122: CUDA 12.2
+cu123: CUDA 12.3
+cu124: CUDA 12.4
+cu125: CUDA 12.5
+
+You can find what version of CUDA you support via `nvidia-smi` and looking for the `CUDA Version` in the top right corner. 
+
 ## Demo
 
-For this demo, we're using a 4-bit quantized Llama-3 8B, but you can use many LLMs available on huggingface. 
+For this demo, we're using our fine-tuned 8-bit quantized Llama-3 model (`fabriceyhc/Llama-3-8B-DrugDetector`), but you can use many LLMs available on huggingface. 
 We recommend one of the following fine-tuned models for improved performance:
 
-- `fabriceyhc/Meta-Llama-3-8B-Instruct-DrugDetection-v3`
-- `fabriceyhc/Meta-Llama-3-70B-Instruct-DrugDetection-v3`
+- `fabriceyhc/Llama-3-8B-DrugDetector`
+- `fabriceyhc/Llama-3-70B-DrugDetector`
 
 ```
 from drugdetector import DrugDetector
 
-detector = DrugDetector(model_id="TechxGenus/Meta-Llama-3-8B-Instruct-GPTQ")
+detector = DrugDetector(model_id="fabriceyhc/Llama-3-8B-DrugDetector")
 ```
 
 

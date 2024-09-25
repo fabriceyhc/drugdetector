@@ -8,22 +8,53 @@ import guidance
 from guidance import models, gen, select, user, system, assistant
 from drugdetector.utils import convert_bools_in_dict
 
-
 n = "\n"
 
 class DrugDetector:
     def __init__(self, 
-                 model_id='fabriceyhc/Meta-Llama-3-8B-Instruct-DrugDetection-v3', 
-                 cache_dir=None, 
+                 model_id='fabriceyhc/Meta-Llama-3-8B-DrugDetector', 
+                 model_type="gguf",
+                 filename="*00001*.gguf",
+                 additional_files=["*.gguf"],
+                 max_input_len=4096,
+                 cache_dir=None,
                  device_map="auto",
                  drugs=None,
-    ):       
-        self.model = models.Transformers(
-            model_id, 
-            echo=False,
-            cache_dir=cache_dir, 
-            device_map=device_map
-        )
+                 verbose=False
+    ):
+        if "gguf" in model_type:
+            if verbose:
+                print(f"Loading llama.cpp model: {model_id}")
+                print("This may take several minutes if this is your first time loading it!")
+            from llama_cpp import Llama
+            import glob
+            model = Llama.from_pretrained(
+                repo_id=model_id,
+                filename=filename,
+                additional_files=additional_files,
+                cache_dir=cache_dir,
+                verbose=False,
+                n_gpu_layers=-1 if "auto" in device_map else device_map,
+                n_ctx=max_input_len,
+            )
+            self.model = models.LlamaCpp(
+                model=model,
+                echo=False,
+            )
+        elif "transformers" in model_type:
+            if verbose:
+                print(f"Loading transformers model: {model_id}")
+                print("This may take several minutes if this is your first time loading it!")
+            self.model = models.Transformers(
+                model_id, 
+                echo=False,
+                cache_dir=cache_dir, 
+                device_map=device_map,
+                max_length=max_input_len,
+            )
+        else:
+            raise ValueError("Please choose a valid model_type in ['gguf', 'transformers']")
+
         self.default_drugs = {
             "Heroin": "Heroin is an illegal opioid drug known for its high potential for addiction and overdose.",
             "Cocaine": "Cocaine is a powerful stimulant drug that is often abused for its euphoric effects.",
@@ -36,6 +67,8 @@ class DrugDetector:
         }
         self.drugs = drugs
         if self.drugs is None:
+            if verbose:
+                print(f"Initialized DrugDetector with default drugs: {self.default_drugs}")
             self.drugs = self.default_drugs
 
     def detect(self, medical_text, drugs=None, persona=None, examples=[], explain=False):
@@ -58,9 +91,11 @@ class DrugDetector:
                 Specifically look for mentions of the following drugs:
                 {f'{n}'.join([f'{drug}: {description}' for drug, description in self.drugs.items()])}
 
-                NOTE: 
-                - If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then set "Heroin" to false.
-                - If there are no mentions of any drug use whatsoever, set "General Drug Use" to false and do not mark any of the other substances as true.
+                Special Notes:
+                1. Mentioning a drug is not sufficient. You are looking for illicit use of the drug in the medical note. 
+                2. If the note warns against the use of a particular drug, that does not mean the patient is actually using the drug. 
+                3. If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then set "Heroin" to false.
+                4. Many opioids are appropriately used and should not be noted. When it comes to prescription opioids, we only want you to identify cases where the patient is not using them appropriately. For example, if they are taking Percocets acquired from friends or from the streets, this would be considered illicit misuse. 
                 """
 
                 # Adding few-shot examples if any are provided
@@ -125,8 +160,9 @@ if __name__ == "__main__":
     # CUDA_VISIBLE_DEVICES=0 python -m drugdetector.detect
 
     detector = DrugDetector(
-        model_id="TechxGenus/Meta-Llama-3-8B-Instruct-GPTQ",
+        model_id="fabriceyhc/Llama-3-8B-DrugDetector",
         cache_dir="/data2/.shared_models/",
+        model_type="gguf",
     )
 
     result = detector.detect(medical_text="Patient denies using heroin but reports cocaine use.")
