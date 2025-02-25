@@ -43,7 +43,7 @@ EXPLANATION = "Explanation for the detection status."
 
 class ClassifyLE(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     heroin: bool = dspy.OutputField(desc=HEROIN)
     cocaine: bool = dspy.OutputField(desc=COCAINE)
     methamphetamine: bool = dspy.OutputField(desc=METHAMPHETAMINE)
@@ -56,7 +56,7 @@ class ClassifyLE(dspy.Signature):
 
 class ClassifyEL(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     explanation: str = dspy.OutputField(desc=EXPLANATION)
     heroin: bool = dspy.OutputField(desc=HEROIN)
     cocaine: bool = dspy.OutputField(desc=COCAINE)
@@ -69,7 +69,7 @@ class ClassifyEL(dspy.Signature):
 
 class ClassifyL(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     heroin: bool = dspy.OutputField(desc=HEROIN)
     cocaine: bool = dspy.OutputField(desc=COCAINE)
     methamphetamine: bool = dspy.OutputField(desc=METHAMPHETAMINE)
@@ -106,10 +106,15 @@ def prepare_dataset(file_path, max_rows=None):
     dataset = [
         dspy.Example(
             medical_text=row["text"],
-            drug_name=row["drug"],
-            drug_description=row["drug_description"],
-            label=row["label"]
-        ).with_inputs("medical_text", "drug_name", "drug_description")
+            heroin=row["heroin"],
+            cocaine=row["cocaine"],
+            methamphetamine=row["methamphetamine"],
+            benzodiazepine=row["benzodiazepine"],
+            rx_opioid_misuse=row["rx_opioid_misuse"],
+            cannabis=row["cannabis"],
+            injection_drug_use=row["injection_drug_use"],
+            general_drug_use=row["general_drug_use"],
+        ).with_inputs("medical_text")
         for _, row in df.iterrows()
     ]
 

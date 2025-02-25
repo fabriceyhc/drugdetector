@@ -41,7 +41,7 @@ DRUG_DESCRIPTIONS = {
 
 class ClassifyLE(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     drug_name: str = dspy.InputField(desc=DRUG_NAME)
     drug_description: str = dspy.InputField(desc=DRUG_DESC)
     explanation: str = dspy.OutputField(desc=EXPLANATION)
@@ -49,7 +49,7 @@ class ClassifyLE(dspy.Signature):
 
 class ClassifyEL(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     drug_name: str = dspy.InputField(desc=DRUG_NAME)
     drug_description: str = dspy.InputField(desc=DRUG_DESC)
     explanation: str = dspy.OutputField(desc=EXPLANATION)
@@ -57,7 +57,7 @@ class ClassifyEL(dspy.Signature):
 
 class ClassifyL(dspy.Signature):
     DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_NOTE)
+    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
     drug_name: str = dspy.InputField(desc=DRUG_NAME)
     drug_description: str = dspy.InputField(desc=DRUG_DESC)
     label: bool = dspy.OutputField(desc=LABEL)
@@ -71,6 +71,7 @@ def score_detection(example, prediction, trace=None):
 # Dataset Preparation
 def prepare_dataset(file_path, max_rows=None):
     df = pd.read_csv(file_path)
+    df['drug_description'] = df['drug'].map(DRUG_DESCRIPTIONS)
 
     dataset = [
         dspy.Example(

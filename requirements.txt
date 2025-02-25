@@ -1,5 +1,14 @@
+accelerate
 guidance
-accelerate 
-auto-gptq
-transformers==4.38.2
+transformers
 optimum
+
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124 # or cuXXX (124 = 12.4) depending on what you see for CUDA Version after running nvidia-smi
+llama-cpp-python==0.2.82
+
+dspy
+uv
+--find-links https://flashinfer.ai/whl/cu124/torch2.5/flashinfer-python
+sgl-kernel
+sglang[all]>=0.4.3.post2
+iterative-stratification
