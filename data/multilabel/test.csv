@@ -380,7 +380,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 194,45,"The patient is a ___ with history of heroin IVDU and recent admissions at OSH for abscess, presenting with fevers, chills, and area of left forearm induration indicative of soft tissue infection, who left AMA. . ACUTE ISSUES # Soft tissue infection Patient reporting ___ days of pain and swelling of left proximal forearm despite being on oral antibiotics for other sites of abscess.",True,False,False,False,False,False,True,True,True
 294,45,"REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as per HPI Past Medical History: anxiety Substance use disorder - alcohol (remission), heroin (remission), methamphetamine (relapsed) hep C (untreated)",True,False,True,False,False,False,False,True,True
 104,258,PRIMARY: -Right occipital infarct SECONDARY: - end stage renal disease on dialysis - hypertension - smoking history - prior history of drug abuse - hyperlipidemia - chronic hepatitis C,False,False,False,False,False,False,False,True,True
-604,103,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ You have also been given Additional Medications to control your pain.,False,False,False,False,False,False,False,False,False
+604,103,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ You have also been given Additional Medications to control your pain.,False,False,False,False,False,False,False,False,False
 723,24,<<NAME>>,False,False,False,False,False,False,False,False,False
 679,46,ALLERGIES: Peanuts.,False,False,False,False,False,False,False,False,False
 2525,29,3. Incompletely seen degenerative changes in the cervical spine.,False,False,False,False,False,False,False,False,False
@@ -532,7 +532,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 294,79,She maintained good oxygen saturations on room air with L nasal cannula oxygen.,False,False,False,False,False,False,False,False,False
 637,11,This is a year old gentleman with a history of smoking and IVDU who presented with a two week history of cough and hemoptysis.,False,False,False,False,False,False,True,True,True
 232,7,"Ms. ___ is a ___ yo woman with history of substance use disorder (heroin, cocaine, possibly others), anxiety, depression who presents as a transfer from ___ for cellulitis and evaluation by hand surgery.",True,True,False,False,False,False,False,True,True
-394,157,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ Affect: More related, less expansive, not irritable today.",False,False,False,False,False,False,False,False,False
+394,157,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ Affect: More related, less expansive, not irritable today.",False,False,False,False,False,False,False,False,False
 141,92,# Polysubstance abuse:,False,False,False,False,False,False,False,True,True
 83,5,Chief Complaint: hemetemesis <<NAME>>,False,False,False,False,False,False,False,False,False
 829,34,"PERRL 5 mm--> 3 mm, bilateral, symmetric.",False,False,False,False,False,False,False,False,False
@@ -1269,7 +1269,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 2541,64,"Brief Hospital Course: ___ yo female with history of Hep C cirrhosis, asthma, h/o IVDU on methadone, anxiety presents w/ 1 month weight gain, increasing abdominal girth, ___ edema and mild DOE without evidence of ascites or pulmonary edema on imaging.",False,False,False,False,False,False,True,True,True
 2578,54,URINE bnzodzp-POS barbitr-NEG opiates-POS cocaine-NEG amphetm-NEG mthdone-NEG ___ 03:32AM,False,False,False,True,False,False,False,True,True
 953,23,"<<NAME>> refers history of IV drug use, and last time was [ * * <<DATE>> * * ] using clean needles.",False,False,False,False,False,False,True,True,True
-247,152,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.",False,False,False,False,False,False,False,False,False
+247,152,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.",False,False,False,False,False,False,False,False,False
 52,78,q. day.,False,False,False,False,False,False,False,False,False
 320,19,"Past Medical History: - Hepatitis C: w/ viral load ___: 10,100 IU/mL - IVDU - Hx of arrhythmia, mother unsure if A-fib or not - Depression - PTSD - Hyperlipidemia - Hx",False,False,False,False,False,False,True,True,True
 953,65,"used to drink about half a gallon of vodka a day, until diagnosed with cirrhosis and incarcerated for buying heroin.",True,False,False,False,False,False,False,True,True
@@ -1487,7 +1487,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 109,87,"In terms of his ID issues, the patient was thought to have multiple sources of infection including his right foot, possible C. difficile colitis given recent antibiotic use, possible cholecystitis, possibly a pneumonia.",False,False,False,False,False,False,False,False,False
 710,88,24HR Sig: One ( ) <<NAME>>,False,False,False,False,False,False,False,False,False
 56,41,2. Chronic hepatitis C with history of intravenous drug use sixteen years ago.,False,False,False,False,False,False,True,True,True
-789,132,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ No contact sports until cleared by your neurosurgeon.,False,False,False,False,False,False,False,False,False
+789,132,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ No contact sports until cleared by your neurosurgeon.,False,False,False,False,False,False,False,False,False
 419,100,You also expressed an interest getting treated for opiate dependence.,False,False,False,False,False,False,False,True,True
 889,24,"This showed a large fibroid uterus not significantly changed, with ovaries not well visualized.",False,False,False,False,False,False,False,False,False
 727,3,Date of Birth: [ * * <<DATE>>1 * * ],False,False,False,False,False,False,False,False,False
@@ -2321,7 +2321,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 300,42,neck was without any lymphadenopathy or goiter and no bruits or thrills noted.,False,False,False,False,False,False,False,False,False
 2570,243,========== TRANSITIONAL ISSUES - cont BLE wound care as o/p - plan for opiate use disorder:,False,False,False,False,False,False,False,True,True
 2506,68,"Patient presented with left arm swelling, erythema, and tenderness ___ location of IVD injected 5 days ago.",False,False,False,False,False,False,True,True,True
-789,163,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ Weakness or changes in sensation in your face, arms, or leg",False,False,False,False,False,False,False,False,False
+789,163,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ Weakness or changes in sensation in your face, arms, or leg",False,False,False,False,False,False,False,False,False
 206,59,"male of unclear PMH, but per Rx bottles consistent with DM2, hyperlipidemia, HTN, BPH, and constipation, along with concern for narcotic abuse who presented to the ER with encephalopathy and (+)",False,False,False,False,True,False,False,True,True
 6,23,"Subsequently it was learned that the patient received some OxyContin mg from a friend while at detox, and remembers taking it prior to admission to the hospital, although he is unclear as to what day he took it.",False,False,False,False,True,False,False,True,True
 383,160,5. ENDOCRINE: The patient was continued on her home dose of insulin.,False,False,False,False,False,False,False,False,False
@@ -2387,7 +2387,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 478,194,"This is a ___ ___ with a history of intravenous drug abuse, who presented with MSSA endocarditis.",False,False,False,False,False,False,True,True,True
 2624,17,"He received atropine, vasopressin, and norepinephrine, and was intubated during this event.",False,False,False,False,False,False,False,False,False
 120,129,"Patient described interest in substance abuse treatment, thus he was referred to ___ psychiatry and his previous ___ clinic there.",False,False,False,False,False,False,False,True,True
-2606,114,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Emotional and/or behavioral difficulties are common.,False,False,False,False,False,False,False,False,False
+2606,114,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Emotional and/or behavioral difficulties are common.,False,False,False,False,False,False,False,False,False
 630,63,You were educated about ethanol use.,False,False,False,False,False,False,False,False,False
 482,122,Brief Hospital Course: ___ year old male with history of IVDU who presented with septic shock and found to have tricuspid valve endocarditis with multiple septic emboli to the lungs.,False,False,False,False,False,False,True,True,True
 291,10,last use heroin was 8:30 ___ last night.,True,False,False,False,False,False,False,True,True
@@ -2761,7 +2761,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 419,10,His plan was to take a large amount of heroin.,True,False,False,False,False,False,False,True,True
 338,58,Patient is afebrile with temperature 97.,False,False,False,False,False,False,False,False,False
 371,71,and an INR of 2.,False,False,False,False,False,False,False,False,False
-751,137,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Any signs of infection at the wound site: increasing redness, increased swelling, increased tenderness, or drainage.",False,False,False,False,False,False,False,False,False
+751,137,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Any signs of infection at the wound site: increasing redness, increased swelling, increased tenderness, or drainage.",False,False,False,False,False,False,False,False,False
 2616,67,Schizoaffective Disorder PTSD Insomnia Pathologic Gambling Mild MR opioid dependence cocaine dependence EtOH dependence Nicotine dependence HTN leg edema back pain palpitations weight loss GSW (AK-47 in ___,False,True,False,False,False,False,False,True,True
 670,43,These have all failed since the patient states that she has hyperactivity disorder and self medicates with Heroin to treat this.,True,False,False,False,False,False,False,True,True
 710,60,Neg TCA and QTc wnl. - Tox consult: supportive care.,False,False,False,False,False,False,False,False,False
@@ -2950,7 +2950,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 162,103,She stated she planned to go to a new Church and seek support for recovery.,False,False,False,False,False,False,False,False,False
 2524,18,He states that a urine test on a previous ocassion had also tested positive for cocaine.,False,True,False,False,False,False,False,True,True
 2504,53,"EXTREMITIES: ___ and ___ edema much improved, now nonexistent; both legs are very thin, ?track marks around R medial malleolus SKIN: multiple ecchymoses over shins, wrists, (+) track marks over wrists PULSES: Distal pulses palpable and symmetric.",False,False,False,False,False,False,True,True,True
-571,72,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Severe pain, swelling, redness or drainage from the incision site.",False,False,False,False,False,False,False,False,False
+571,72,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Severe pain, swelling, redness or drainage from the incision site.",False,False,False,False,False,False,False,False,False
 289,39,Polypharmacy: With intoxication.,False,False,False,False,False,False,False,True,True
 55,26,Patient received IV Lopressor times two.,False,False,False,False,False,False,False,False,False
 403,45,All other systems were reviewed and are negative Past Medical History: IV heroin use - Osteomyelitis at age ___ - Bipolar disorder - Prior cholecystectomy,True,False,False,False,False,False,True,True,True
@@ -3110,7 +3110,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 477,15,"She unfortunately relapsed on IV heroin, and was readmitted for fever from ___ to ___.",True,False,False,False,False,False,True,True,True
 129,211,Urine toxin screen was positive for cocaine.,False,True,False,False,False,False,False,True,True
 311,104,"===================== # IV DRUG ABUSE: Formerly abstinent from heroin for ___ years, on methadone maintenance therapy.",True,False,False,False,False,False,False,True,True
-223,89,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Please do NOT take any blood thinning medication (Aspirin, Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon.",False,False,False,False,False,False,False,False,False
+223,89,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Please do NOT take any blood thinning medication (Aspirin, Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon.",False,False,False,False,False,False,False,False,False
 253,21,"- Labs were notable for positive tox screen for benzos and amphetamines, lactate 2.3, no osmolal gap, anion gap ~4, and Cr up to 1.9 from 1.0 when seen at ___ on ___ - He received an additional dose of Narcan in the ED, again unclear whether this had an effect or not.",False,False,True,True,False,False,False,True,True
 829,141,"Please come back to the emergency room should you develop any fevers, chills, sweats, nausea, vomiting, diarrhea, burning with urination, or any other complaints.",False,False,False,False,False,False,False,False,False
 208,11,"Pt had resp failure on floor, intubation and ICU transfer, and CT showing question tracheomalacia pt then transfered to [ * * Hospital1 * * ] for eval possible surgical intervention Past Medical History: COPD Afib / Flutter depression OSA prior IVDA Social History:",False,False,False,False,False,False,True,True,True
@@ -3237,7 +3237,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 2532,5,He was initially brought to ___ by EMS after his wife found him snorting his medications and appearing agitated.,False,False,False,False,True,False,False,True,True
 287,21,She had been nearly 11 mos sober from alcohol and drugs but relapsed after the rape.,False,False,False,False,False,False,False,True,True
 6,131,"Other causes for his change in mental status included withdrawal from benzodiazepines and alcohol, electrolyte abnormalities, infection, intracranial processes, as well as renal hepatic disease.",False,False,False,False,False,False,False,True,True
-223,77,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Call your surgeon if there are any signs of infection like redness, fever, or drainage.",False,False,False,False,False,False,False,False,False
+223,77,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Call your surgeon if there are any signs of infection like redness, fever, or drainage.",False,False,False,False,False,False,False,False,False
 274,23,The patient lives with his wife and brother in - law.,False,False,False,False,False,False,False,False,False
 865,35,"Alcohol use - - shots of vodka per day for past three months, crystal methamphetamine daily, MJ daily; history of special K, ecstacy and IV drug use by records though patient denies this.",False,False,True,False,False,True,False,True,True
 2622,105,Please refer to subsequent CT torso for further details.,False,False,False,False,False,False,False,False,False
@@ -3986,7 +3986,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 336,60,"Given recent drug use and history of MRSA skin infection, the patient was given Vancomyocin 1g IV, blood cultures were drawn, CXR was obtained in the ED.",False,False,False,False,False,False,False,True,True
 475,141,Drug toxicity,False,False,False,False,False,False,False,True,True
 203,112,"Scaly psoriasis lesions on elbows, bilaterally.",False,False,False,False,False,False,False,False,False
-516,170,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½If you feel light headed or fatigued after increasing activity, rest, decrease the amount of activity that you do, and begin building your tolerance to activity more slowly.",False,False,False,False,False,False,False,False,False
+516,170,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½If you feel light headed or fatigued after increasing activity, rest, decrease the amount of activity that you do, and begin building your tolerance to activity more slowly.",False,False,False,False,False,False,False,False,False
 101,18,He reports having last injected heroin yesterday morning.,True,False,False,False,False,False,True,True,True
 2510,204,#H.o IVDU (___) and other opioid use Patient reports last used in ___.,False,False,False,False,False,False,True,True,True
 252,190,"When the patient presented he had a platelet count of 65, and given his history of IV drug use he was tested for Hepatitis C. Viral load was 1,270,000.",False,False,False,False,False,False,True,True,True
@@ -5016,7 +5016,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 633,89,7,False,False,False,False,False,False,False,False,False
 448,87,Anti - smooth antibody is positive at 1: titer.,False,False,False,False,False,False,False,False,False
 64,55,"Patient has now known CAD, but did have a troponin leak and elevated CK - MB on admission in the setting of recent cocaine use.",False,True,False,False,False,False,False,True,True
-223,84,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½No driving while taking any narcotic or sedating medication.,False,False,False,False,False,False,False,False,False
+223,84,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½No driving while taking any narcotic or sedating medication.,False,False,False,False,False,False,False,False,False
 202,228,This was thought most likely to be a flow murmur from anemia but given history of IVDU there was concern for endocarditis.,False,False,False,False,False,False,True,True,True
 621,193,was initiated on MAC prophylaxis and continued on his PCP prophylaxis while admitted.,False,False,False,False,False,False,False,False,False
 63,68,The patient was transferred to the MICU for management of his airway secondary to his dysphagia and for his acute renal failure.,False,False,False,False,False,False,False,False,False
@@ -5046,7 +5046,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 947,19,<<NAME>> urine toxicology was positive for benzodiazepines and opiates.,False,False,False,True,False,False,False,True,True
 423,6,"HPI: ___ female RHD with hx of IVDU (heroin, on suboxone) and seizure disorder presents with left forearm abscess beginning 2 days ago.",True,False,False,False,False,False,True,True,True
 2570,5,History of Present Illness: ___ w OUD w active IV heroin abuse p/w hand pain and fevers.,True,False,False,False,False,False,True,True,True
-300,58,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½You make take leisurely walks and slowly increase your activity at your own pace.,False,False,False,False,False,False,False,False,False
+300,58,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½You make take leisurely walks and slowly increase your activity at your own pace.,False,False,False,False,False,False,False,False,False
 146,89,2. Heroin abuse.,True,False,False,False,False,False,False,True,True
 140,126,Acyclovir b. i.,False,False,False,False,False,False,False,False,False
 855,46,"Ciproheptadine was not started, as this has anticholinergic properties that could have worsened the symptoms from her benadryl overdose (see below).",False,False,False,False,False,False,False,True,True
@@ -5243,7 +5243,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 166,103,The patient states that this is the site where he had previously shot up but accidentally missed the vein.,False,False,False,False,False,False,True,True,True
 352,2,"History of Present Illness: ___ yo F w hx of IVDA and sedative/pain med abuse, chronic musculoskeletal pain, and anxiety/depression/PTSD who was transferred to our ED from ___ after syncopal episode at home.",False,False,False,True,True,False,True,True,True
 280,159,Patient had profound sinus bradycardia initially during her first - days of hospitalization with heart rates in - 40s.,False,False,False,False,False,False,False,False,False
-795,199,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ 4 times a day, 15 ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ 20 minutes each time to keep swelling to a minimum.",False,False,False,False,False,False,False,False,False
+795,199,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ 4 times a day, 15 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ 20 minutes each time to keep swelling to a minimum.",False,False,False,False,False,False,False,False,False
 127,10,He has recently been using IV heroin though is reluctant to discuss this fact as his wife does not know he uses heroin.,True,False,False,False,False,False,True,True,True
 2524,54,"Brief Hospital Course: A/P: ___ s/p OLT (___), recent IVDU, presents with acute on chronic renal failure in setting of positive urine tox. . # ARF on CRI:",False,False,False,False,False,False,True,True,True
 24,26,Positive heroine drug abuse.,True,False,False,False,False,False,False,True,True
@@ -5737,7 +5737,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 2644,24,"He denies any other drug use, however in the ED-it states that he overdosed on heroin last week and received naloxone at ___.",False,False,False,False,False,False,False,False,False
 114,33,"-HTN and orthostatic hypotension -Recurrent syncope w/falls since at least ___ -CKD thought to be ___ tenofovir -Hypothyroidism -H/O IVDU (cocaine/heroin) now on methadone maintenance -H/O MSSA bacteremia and discitis ___ -H/O Bipolar disease, panic disorder",True,True,False,False,False,False,True,True,True
 2511,45,Plt ___ .,False,False,False,False,False,False,False,False,False
-223,86,ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Do NOT smoke.,False,False,False,False,False,False,False,False,False
+223,86,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Do NOT smoke.,False,False,False,False,False,False,False,False,False
 53,32,<<NAME>>,False,False,False,False,False,False,False,False,False
 767,42,Middle-aged male laying in bed in NAD.,False,False,False,False,False,False,False,False,False
 131,60,16. Remeron mg h.,False,False,False,False,False,False,False,False,False
@@ -6212,7 +6212,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 831,168,8. Fosamprenavir mg Tablet Sig: One ( ) Tablet PO Q12H ( every hours ).,False,False,False,False,False,False,False,False,False
 500,55,from a baseline of two weeks ago.,False,False,False,False,False,False,False,False,False
 509,30,"Reports blood cultures from ___ drawn ___ prior to ED presentation were positive, but she is unsure if they were drawn from PICC or peripherally.",False,False,False,False,False,False,False,False,False
-382,173,The patientÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½s sister and parents were supportive of the patientÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½s treatment and afterca,False,False,False,False,False,False,False,False,False
+382,173,The patientÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½s sister and parents were supportive of the patientÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½s treatment and afterca,False,False,False,False,False,False,False,False,False
 2570,221,"# OUD # injection drug use, active",False,False,False,False,False,False,True,True,True
 328,71,#Pain: the pt had pain at the abscess site from the IVDA.,False,False,False,False,False,False,True,True,True
 472,159,"He has multisubstance abuse with EtOH, heroine, and narcotics.",True,False,False,False,True,False,False,True,True

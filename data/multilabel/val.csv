@@ -302,7 +302,7 @@ doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_
 70,39,7. Aldactone mg three times a day.,False,False,False,False,False,False,False,False,False
 253,18,History of heroin use but none in the last ___ years.,True,False,False,False,False,False,False,True,True
 2615,32,CXR,False,False,False,False,False,False,False,False,False
-547,73,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.",False,False,False,False,False,False,False,False,False
+547,73,"ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.",False,False,False,False,False,False,False,False,False
 325,142,She has a long standing history of hypertension and will only take clonidine patch at home.,False,False,False,False,False,False,False,False,False
 2512,108,"Explained that she would use these substances if available, but would not actively seek them out.",False,False,False,False,False,False,False,True,True
 860,7,She was placed in a torso brace but her course was complicated by respiratory failure requiring intubation.,False,False,False,False,False,False,False,False,False
