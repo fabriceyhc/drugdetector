@@ -1,0 +1,845 @@
+doc_id,sentence_id,text,heroin,cocaine,methamphetamine,benzodiazepine,rx_opioid_misuse,cannabis,injection_drug_use,general_drug_use,has_drug
+2641,83,___ ECHO,False,False,False,False,False,False,False,False,False
+2570,6,Patient relapsed ___ drug use again after several years without drug use several weeks ago.,False,False,False,False,False,False,False,True,True
+792,73,There is no pericardial effusion.,False,False,False,False,False,False,False,False,False
+698,120,OF THREE COLONIAL MORPHOLOGIES.,False,False,False,False,False,False,False,False,False
+697,31,"Polysubstance abuse and dependence, alcohol, Cocaine and Heroin.",True,True,False,False,False,False,False,True,True
+104,47,Virus - Heroin/Cocaine Abuse (last ___ yrs ago) - Active Marijuana,True,True,False,False,False,True,False,True,True
+146,74,"Question of Axis I disorder was raised, but in the acute setting of intoxication, difficult to diagnosis.",False,False,False,False,False,False,False,False,False
+75,46,"twice daily chronically, Cocaine abuse, Alcohol use drinks / day Family History:",False,True,False,False,False,False,False,True,True
+14,219,We will check her Hct TID for now.,False,False,False,False,False,False,False,False,False
+4,7,"The patient is a - year - old woman with a history of IV drug abuse, who initially presented to an outside hospital on [ * * <<DATE>> * * ] from a drug and detoxification facility with a chief complaint of headache, abdominal pain, and fever.",False,False,False,False,False,False,True,True,True
+403,90,Patient with ongoing history of IV heroin use.,True,False,False,False,False,False,True,True,True
+2573,27,"Hx: - EtOH use: 2x/wk, 6-pack beer + ""a few shots"" of hard liquor - heroine: last used ""a few days ago"" - tobacco:",True,False,False,False,False,False,False,True,True
+420,71,No infectious etiology was identified.,False,False,False,False,False,False,False,False,False
+403,40,"Patient presented from outside hospital, had blood work revealing white blood cell 12.3, positive opiates, negative urine pregnancy.",False,False,False,False,False,False,False,True,True
+662,92,4. Pain -,False,False,False,False,False,False,False,False,False
+2586,30,"Brief Hospital Course: ASSESSMENT & PLAN: ___ y.o. M with depression and anxiety, h/o IVDU, who presents with R wrist pain, swelling, warmth x 3 days.",False,False,False,False,False,False,True,True,True
+2512,43,VII:,False,False,False,False,False,False,False,False,False
+133,13,"Since ingestion, pt reports feeling palpitations (present at baseline), a feeling of ""haziness/floaty"" and ""memory troubles"".",False,False,False,False,False,False,False,True,True
+327,108,1 drop left eye HS.,False,False,False,False,False,False,False,False,False
+126,229,==================== # HIV # HTN # COPD,False,False,False,False,False,False,False,False,False
+246,5,"___ male with a history of ___ years of chronic alcohol and IV drug abuse presenting from OSH with abdominal pain, nausea and vomiting.",False,False,False,False,False,False,True,True,True
+833,41,"Pt now states she took lithium and a ""sleeping pill.""",False,False,False,False,False,False,False,True,True
+75,95,Pt is a yo woman who presented with acute cocaine and [ * * Month / <<NAME>> / Year * * ] intoxication with hospital course complicated by [ * * Month / <<NAME>> / Year * * ] withdrawl..,False,True,False,False,False,False,False,True,True
+445,28,"He has a history of opiate abuse, including heroin, oxycodone, and suboxone (from several sources including Dr. ___, Dr. ___, and ___ ___/Primary Care).",True,False,False,False,True,False,False,True,True
+2566,50,"ASSESSMENT: ___ yo man with PMH of opioid and IVDU, presenting to ___ initially after being found in vehicle unresponsive.",False,False,False,False,False,False,True,True,True
+384,14,"Past Medical History: MH: bipolar disorder, depression, hx of neck abscess, IVDU, hepatitis C",False,False,False,False,False,False,True,True,True
+23,26,5. Chronic renal insufficiency.,False,False,False,False,False,False,False,False,False
+240,71,"In addition, clinical exam c/w heroin use (pinpoint pupils, flushed & warm), which may contribute, and concomitant ARF slowed his clearance of all of the above.",True,False,False,False,False,False,False,True,True
+460,99,"Seizure Secondary Diagnosis: h/o polysubstance abuse seizure disorder h/o polysubstance abuse h/o dilaudid abuse anxiety migraines asthma h/o ORIF L ulna, L knee surgery",False,False,False,False,True,False,False,True,True
+188,61,"Brief Hospital Course: Mr. ___ is a ___ with substance use disorder, HCV not on treatment, transferred to ___ from ___ for treatment left hand cellulitis after injection with a non-sterile needle.",False,False,False,False,False,False,False,True,True
+506,164,Followup Instructions: ___,False,False,False,False,False,False,False,False,False
+207,11,Narcan was administered on EMS arrival and she had return of spontaneous circulation.,False,False,False,False,False,False,False,True,True
+841,116,"Brief Hospital Course: ___ yo male with PMH significant for C5 fracture resulting in quadriplegia in ___ with subsequent improved limited mobility of his upper extremities over the last year presents positve UA and worsening right gluteal ulcer and associated subjective fevers, chills and sweats.",False,False,False,False,False,False,False,True,True
+429,257,"Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%).",False,False,False,False,False,False,False,False,False
+741,128,9. Bisacodyl mg p. o. / p. r. once per day as needed ( no stool ).,False,False,False,False,False,False,False,False,False
+283,121,HCV HCV and alcohol related cirrhosis Hepatocellular carcinoma Cholelithiasis Lg R pleural effusion High output ascites postop encephalopathy Posttraumatic stress disorder Paranoid schizophrenia Alcohol abuse IV drug use TB treated with INH,False,False,False,False,False,False,True,True,True
+2509,29,"Im ___ AbsNeut-3.42 AbsLymp-2.35 AbsMono-0.60 AbsEos-0.06 AbsBaso-0.04 ___ 07:50AM BLOOD Plt ___ ___ 07:50AM BLOOD Glucose-113* UreaN-9 Creat-0.6 Na-142 K-4.5 Cl-101 HCO3-24 AnGap-17 ___ 07:50AM BLOOD ALT-20 AST-24 LD(LDH)-176 AlkPhos-71 TotBili-0.2 ___ 07:50AM BLOOD Calcium-9.5 Phos-3.6 Mg-1.9 ___ 02:37PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-POS* oxycodn-NEG mthdone-POS* ___ 04:00PM URINE bnzodzp-NEG barbitr-NEG opiates-POS* cocaine-NEG amphetm-POS* oxycodn-NEG mthdone-NEG ___ 11:25AM URINE AMPHETAMINES, LC/MS-PND",False,False,True,False,False,False,False,True,True
+493,72,Former history of alcohol and intravenous drug use - - in remission.,False,False,False,False,False,False,True,False,True
+482,153,He subsequently self-extubated again and remained stable and was transferred to the floor from the MICU.,False,False,False,False,False,False,False,False,False
+774,77,It was discontinued on [ * * <<DATE>> * * ].,False,False,False,False,False,False,False,False,False
+316,4,"Chief Complaint: transfer from ___ for bilateral extremity numbness, tingling after fall 2 weeks ago Major Surgical or Invasive Procedure: none History of Present Illness: ___ with PMH polysubstance abuse, HTN, afib, left AKA, s/p mechanical fall 2 weeks ago who presented to ___ with R leg cellulitis, given vanc/ertapenem, and was found to have bilateral numbness and tingling in bilateral arms and fingers and was subsequently transferred to ___ for further evaluation.",False,False,False,False,False,False,False,True,True
+90,43,"months ago, he quit etoh, heroin, and cocaine.",True,True,False,False,False,False,False,True,True
+443,82,"Given intermittent drug use and success on naltrexone previously, this would likely be the best treatment for him but is not available in house.",False,False,False,False,False,False,False,True,True
+262,130,"On presentation, the patient was evaluated and felt to be at an increased risk of harm to himself based upon command ___ in setting of substance use.",False,False,False,False,False,False,False,True,True
+258,34,<<NAME>>,False,False,False,False,False,False,False,False,False
+137,44,"Mr ___ is a ___ with IVDA, admitted w possible bacteremia given coag negative staph isolated from ___ bottles on recent admission.",False,False,False,False,False,False,True,True,True
+2637,120,You were seen by social work to discuss new accomodations for sober living.,False,False,False,False,False,False,False,False,False
+858,20,Has AV fistula in left arm but has not yet started HD.,False,False,False,False,False,False,False,False,False
+266,25,1. History of Vicodin abuse in the past; subsequently on a Fentanyl patch.,False,False,False,False,False,False,False,True,True
+476,211,MD [ * * MD Number ( ) * * ],False,False,False,False,False,False,False,False,False
+901,31,They are unmarried.,False,False,False,False,False,False,False,False,False
+172,67,She was admitted with some concern for endocarditis given her previous IV drug use.,False,False,False,False,False,False,True,True,True
+953,70,Used IV heroin last on [ * * - * * ] ( birthday ).,True,False,False,False,False,False,True,True,True
+428,52,Leiden - Pulmonary embolism - History of opioid use disorder and cocaine use - R hemiarthroplasty c/b multiple PJI w/ multiple I&D and R hip arthrotomy and antibiotic spacer - hepatitis C Social History: ___ Family History:,False,True,False,False,False,False,False,True,True
+274,48,"On [ * * <<DATE>> * * ], the patient had a CABG times three performed by Dr. [ * * Last Name ( STitle ) * * ].",False,False,False,False,False,False,False,False,False
+369,80,4,False,False,False,False,False,False,False,False,False
+129,33,"2. 9, Alk phos 127.",False,False,False,False,False,False,False,False,False
+442,113,==================== acute hepatitis hepatitis C opiate withdrawal,False,False,False,False,False,False,False,True,True
+119,3,"Bactrim Attending: ___ Chief Complaint: rigidity Major Surgical or Invasive Procedure: none History of Present Illness: ___ with AIDS (CD4 112 VL <48 copies/mL ___ on HAART, HCV (VL 21,000,000 IU/mL in ___, depression, polysubstance abuse admitted with chest pain and total body stiffness.",False,False,False,False,False,False,False,True,True
+482,17,Head CT was reported as negative.,False,False,False,False,False,False,False,False,False
+814,277,"Patient was continually counseled on the importance of staying clean and patient agreed to continue to go to NA, and attend rehab as needed.. ) Enterobacter UTI Patient developed sx's c / w UTI during her admission with a positive U / A and urine culture that grew Enterobacter.",False,False,False,False,False,False,False,True,True
+87,51,Nephrocaps one p. o.,False,False,False,False,False,False,False,False,False
+137,73,Your primary care physician ___ follow up your current blood culture results. .,False,False,False,False,False,False,False,False,False
+888,64,ABD / PEL:,False,False,False,False,False,False,False,False,False
+319,29,PAST MEDICAL HISTORY:,False,False,False,False,False,False,False,False,False
+733,33,"<<NAME>> reports loss of appetite, lb weight loss and night sweats over several weeks prior to admission Past Medical History: Aortic Valve Endocarditis, Aortic Valve Insufficiency, Bicsupid Aortic Valve, History of IVDA, Left forearm Abscess, WPW - history of cardiac arrest and status post ablation at age 17, Anemia Social History: Last IVDU was 3. months ago.",False,False,False,False,False,False,True,True,True
+142,64,7. OxycoDONE (Immediate Release) ___ mg PO Q4H:PRN pain RX *oxycodone 5 mg ___ tablet(s) by mouth q 4 hours Disp #*40 Tablet Refills:*0,False,False,False,False,False,False,False,False,False
+245,65,"Patient pronounced dead, 22:09 ___ Pertinent Results: ADMISION LABS",False,False,False,False,False,False,False,False,False
+675,4,CCU HISTORY OF PRESENT ILLNESS:,False,False,False,False,False,False,False,False,False
+108,6,___.,False,False,False,False,False,False,False,False,False
+561,32,Findings may reflect focal ileus due to jejunitis versus early small bowel obstruction.,False,False,False,False,False,False,False,False,False
+429,396,EMPYEMA: On ___ chest CT was performed to persistent fevers and showed a question of a loculated pleural effusion vs. prevertebral abscess.,False,False,False,False,False,False,False,False,False
+207,216,You met with a social worker who helped to set up an outpatient program to help you with your alcohol and drug use.,False,False,False,False,False,False,False,True,True
+411,105,We suspect that patient likely had seizures in the setting of alcohol and cocaine use.,False,True,False,False,False,False,False,True,True
+546,212,You were able to walk by the time you left the hospital and should follow up with outpatient physical therapy.,False,False,False,False,False,False,False,False,False
+83,36,"Occasional marijuana, no other drug use.",False,False,False,False,False,True,False,True,True
+343,64,"Brief Hospital Course: EKG on [ * * <<DATE>> * * ] demonstrated Sinus rhythm with nl axis, prolonged PR, prolonged QTc, prolonged QRS; RBBB, no ST - T changes; with no significant change compared with prior dated [ * * <<DATE>> * * ]..",False,False,False,False,False,False,False,False,False
+511,39,The patient's LFT's and Tbili continued to increase after the ERCP and lap ccy.,False,False,False,False,False,False,False,False,False
+202,15,"Urine toxicology screen in the ED was positive for opiates, benzodiazepines, and cocaine.",False,True,False,True,False,False,False,True,True
+132,105,"Psychiatric: Patient was admitted for sudden onset of new psychotic symptoms (paranoia, auditory hallucinations) in the context of heavy alcohol and THC abuse.",False,False,False,False,False,True,False,True,True
+2559,9,Smokes crack.,False,True,False,False,False,False,False,True,True
+775,151,[ * * Name11 ( NameIs ) * * ] was contact [ * * Name ( NI ) * * ] by telephone by myself and informed of the [ * * Hospital * * ] hospital course.,False,False,False,False,False,False,False,False,False
+469,32,6. History of cocaine abuse which she snorted.,False,True,False,False,False,False,False,True,True
+4,24,1. Intravenous drug abuse.,False,False,False,False,False,False,True,True,True
+311,30,3. Fluid within the right maxillary sinus may relate to mucosal sinus disease.,False,False,False,False,False,False,False,False,False
+925,188,Please continue your care at the rehabilitation facility to increase your physical strength.,False,False,False,False,False,False,False,False,False
+6,46,Toxicology was contacted and they stated safest would be to start the patient on golytely until the heroin bag passes or her stool output is clear and to monitor her in a medical setting until this is complete.,True,False,False,False,False,False,False,True,True
+135,72,"was initially started on broad spectrum antibiotics ( ceftazidime, caspofungin, and vancomycin ).",False,False,False,False,False,False,False,False,False
+399,61,"Per Infection Control, patient was eligible to be discharged and will ___ ___ ___ smear.",False,False,False,False,False,False,False,False,False
+226,95,Alert and interactive.,False,False,False,False,False,False,False,False,False
+321,111,6. Opiod dependance:,False,False,False,False,False,False,False,True,True
+805,7,"Surgical or Invasive Procedure: None History of Present Illness: 41yo female with bipolar d / o, heroin use in past, h / o mrsa, recent Hep C, recent history of septic joint s / p debridment p / w acute renal failure.",True,False,False,False,False,False,False,True,True
+814,273,"Initially, she denied drug abuse, but a tox screen drawn in the ED was positive for cocaine and opioids.",False,True,False,False,False,False,False,True,True
+66,65,Na - K -,False,False,False,False,False,False,False,False,False
+134,3,Date of Birth: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+204,217,Why did you come to the hospital? -,False,False,False,False,False,False,False,False,False
+902,5,Patient recorded as having,False,False,False,False,False,False,False,False,False
+2556,127,"Prognosis: Guarded - pt has a chronic psychotic d/o and h/o PSA, but if he remains compliant with abstinence from illicits and with taking meds, he has many strengths that could lead to a good outcome.",False,False,False,False,False,False,False,True,True
+152,145,"<<NAME>> - colonoscopy, you developed a fever and were started on antibiotics in case of infection, particulary on your aortic valve.",False,False,False,False,False,False,False,False,False
+425,55,Lungs clear to auscultation bilaterally.,False,False,False,False,False,False,False,False,False
+2552,4,Left elbow pain Major Surgical or Invasive Procedure: left arm abscess incision and drainage History of Present Illness: ___ with Hx IVDU who presents with infection of his left arm.,False,False,False,False,False,False,True,True,True
+602,134,"Dear Mr. ___,",False,False,False,False,False,False,False,False,False
+179,93,"Upper gastrointestinal bleed Secondary diagnosis: polysubstance abuse, hepatitis C, depression, hypertension",False,False,False,False,False,False,False,True,True
+242,18,"PMHx: etoh abuse w/hx withdrawal seizures, IV heroin, crack cocaine, chronic pancaretitis",True,True,False,False,False,False,True,True,True
+2502,53,Pt reports benzo screen positive due to librium use at rehab.,False,False,False,True,False,False,False,True,True
+859,76,#Diabetes Home Metformin was held for surgery and resumed ___.,False,False,False,False,False,False,False,False,False
+237,32,"1) Seizures; seems to be a primary seizure disorder, despite intermittent substance abuse.",False,False,False,False,False,False,False,True,True
+154,105,Pain: Opioid-experienced patient.,False,False,False,False,False,False,False,True,True
+104,225,3) GI: Passed speech/swallow evaluation at bedside prior to initiation of diet.,False,False,False,False,False,False,False,False,False
+2532,126,"Utox positive for benzos, cocaine, and methadone.",False,True,False,True,False,False,False,True,True
+146,78,4. DRUG ABUSE: Patient should be discharged to a rehabilitation facility for treatment of his drug use.,False,False,False,False,False,False,False,True,True
+610,7,"The patient is a year old male with a past medical history significant for HIV ( diagnosed in [ * * * * ], with CD4 count in [ * * - * * ], viral load less than ), depression, and polysubstance abuse, who presented to the Emergency Department with complaints of abdominal pain associated with fevers and chills as well as transient chest pain following recreational drug use.",False,False,False,False,False,False,False,True,True
+640,135,Sinus arrhythmia.,False,False,False,False,False,False,False,False,False
+350,49,=================== ___ 06:14AM BLOOD WBC-5.8 RBC-3.97*,False,False,False,False,False,False,False,False,False
+2647,154,Lichen planus Past IVDU,False,False,False,False,False,False,True,True,True
+630,61,On [ * * <<DATE>> * * ] she opened her eyes.,False,False,False,False,False,False,False,False,False
+148,14,"Pt endorses consuming ""3 shots of vodka"" an hour prior to arrival and shortly after experiencing the symptoms.",False,False,False,False,False,False,False,False,False
+955,32,"Pt tolerated all the procedures well Psyche consulted for Agitation and question of opiate withdrawal, there recommendations were.",False,False,False,False,False,False,False,True,True
+403,28,"She denies dysuria, difficulty with urination or bowel movements, or changes in sensation.",False,False,False,False,False,False,False,False,False
+814,268,"Patient had been noncompliant, and was still actively using IV drug use up until prior to admission.",False,False,False,False,False,False,True,True,True
+636,10,"Since that time, she has continued to have similar episodes while awake, mostly in the morning or early afternoon.",False,False,False,False,False,False,False,False,False
+429,433,"Dosages of Haldol, Ativan, Phenobarbital, Methadone, Fentanyl and Dilaudid were adjusted extensively.",False,False,False,False,False,False,False,False,False
+38,65,"On postoperative day # 1, the patient was transferred to the regular floor.",False,False,False,False,False,False,False,False,False
+204,13,She was admitted to medicine for further work up of her septic shoulder and concerns for endocarditis (given new murmur and hx of IVDU).,False,False,False,False,False,False,True,True,True
+310,33,Antibodies to EBNA develop ___ weeks after primary infection and remain present for life.,False,False,False,False,False,False,False,False,False
+696,7,He went to urgent care (TUES) at the ___ and was given given Flexeril w/ minimal improvement.,False,False,False,False,False,False,False,False,False
+804,104,"The attending radiologist, Dr. ___, was present and supervising throughout.",False,False,False,False,False,False,False,False,False
+865,36,Has been treated for substance use at [ * * Last Name ( un ) * * ] in past.,False,False,False,False,False,False,False,True,True
+180,228,"You presented to the hospital with extremely high blood sugar levels that ( on top of your heroin use ) caused you to lose consciousness, have kidney failure, and breathing problems.",False,False,False,False,False,False,False,True,True
+388,27,Bone mineralization is normal.,False,False,False,False,False,False,False,False,False
+112,110,You were admitted for heroin withdrawal.,True,False,False,False,False,False,False,True,True
+870,97,Imaging Lab ___ ___ ___ ___BD W&W/O C Study Date of ___ 12:04 ___ ___ ___ ___ 12:___BD W&W/O C; CT PELVIS W/CONTRAST; CT CHEST W/CONTRAST Clip # ___ Reason:,False,False,False,False,False,False,False,False,False
+278,61,Home Discharge Diagnosis: acute pancreatitis Etoh withdrawal opiate withdrawal hypertensive urgency,False,False,False,False,False,False,False,True,True
+411,22,Patient was checked up later in the morning and was much more interactive and stated that she had seizures as a child and used to take valproic acid.,False,False,False,False,False,False,False,False,False
+2608,42,BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-POS Barbitr-NEG Tricycl-NEG ___ 09:10AM BLOOD Lactate-1.3,False,False,False,False,False,False,False,True,True
+396,134,2. Substance abuse.,False,False,False,False,False,False,False,True,True
+2631,176,8. Loratadine 10 mg PO DAILY RX *loratadine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 9.,False,False,False,False,False,False,False,False,False
+397,15,"No history of DMII, HTN Hx of IVDU LUE DVT ___ years ago with surgical resection Social History: ___ Family History:",False,False,False,False,False,False,True,True,True
+65,29,4. <<NAME>> cholesterol.,False,False,False,False,False,False,False,False,False
+817,27,"No LAD, no JVD appreciated CARDIAC: S1 & S2 regular without murmur LUNG: B CTA ABDOMEN: BS present, Soft, RUQ tenderness to palpation, positive ___ sign.",False,False,False,False,False,False,False,False,False
+846,66,"SOCIAL HISTORY: The patient has a history of former intravenous drug abuse who has a history of confirmed """" Do Not Resuscitate """" as her code status.",False,False,False,False,False,False,True,True,True
+296,91,<<NAME>> for appointment in two to four weeks for continued management of cardiac regimen for an outpatient stress test.,False,False,False,False,False,False,False,False,False
+224,114,Was seen my addiction nursing while in house and patient is interested in initiating suboxone.,False,False,False,False,False,False,False,True,True
+679,60,"Goal hematocrit was greater than 25, since he had no known history of coronary artery disease, and INR goal was for 1. to 1. for procedures.",False,False,False,False,False,False,False,False,False
+952,92,08: JOB #: [ * * Job Number * * ],False,False,False,False,False,False,False,False,False
+469,12,Past Medical History: Depression anxiety seizure disorder history of alcoholism IVDU,False,False,False,False,False,False,True,True,True
+612,14,"About one year ago the patient began to notice dull pain behind his knee and perceived a loss of sensation in his foot; he saw a Neurosurgeon in ___, ___ year ago.",False,False,False,False,False,False,False,False,False
+206,62,Clouded by his having received Ativan 3.5mg IV in the ER.,False,False,False,False,False,False,False,False,False
+260,107,1. Aspirin 81 mg PO DAILY 2. Methadone 120 mg PO DAILY 3.,False,False,False,False,False,False,False,False,False
+2533,115,No 2D echocardiographic evidence of enodcarditis.,False,False,False,False,False,False,False,False,False
+72,70,6. Increased liver function tests:,False,False,False,False,False,False,False,False,False
+2568,97,"___ CT CHEST -Multiple tiny centrilobular micronodules and subtle prominence of the interstitium is of unclear etiology, although in the presence of known IV drug use and pulmonary hypertension, could represent talc granulomas.",False,False,False,False,False,False,True,True,True
+2544,11,Past Medical History: DAILY HEROIN USE UP TO 2.5 GM Social History: ___ Family History: Noncontributory Physical Exam: Temp: 99 HR: 112 BP: 137/87 Resp: 16 O(2)Sat: 98,True,False,False,False,False,False,False,True,True
+2634,29,"Labs: WBC 13.4, Plt 663, ALT 183, AST 211, AP 132, T bili 0.8, Cr 0.8 and normal lytes panel, normal lactate, tox screen positive for urine benzos and amphetamines and negative for opiates.",False,False,True,True,False,False,False,True,True
+155,38,"History of intravenous drug use, Heroin, Cocaine, and is a resident of [ * * First Name4 ( NamePattern1 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] in [ * * Location ( un ) * * ].",True,True,False,False,False,False,True,True,True
+312,65,"Prior to and following dialysis on ___, patient consistently verbalized his appreciation for his dialysis needs; he consistently verbalized his intent to continue receiving dialysis treatment and understood the medical consequences if he were to refuse dialysis ongoing (e.g. electrolyte imbalances, hypervolemia and pulmonary edema, arrhythmia, death).",False,False,False,False,False,False,False,False,False
+361,58,"-Opioids- denies current use, last use ___ year ago, denies regular use, trialed suboxone -Benzodiazepines -Tobacco- current use, x10-15 shooz pouches of powered tobacco to upper lip, first at ___ y/o, when using cigarettes had been at 1PPD -Cannabis- denies current use, smoked daily ___ y/o, last use at ___ y/o -Cocaine- denies current use, trialed several times, denies regular use -Reports long history of substance use history, including detoxes, programs.",False,False,False,True,False,True,False,True,True
+234,16,"Past Medical History: Bipolar disorder Anxiety Heroin abuse Social History: ___ Family History: Non-contributory Physical Exam: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",True,False,False,False,False,False,False,True,True
+987,130,"She was continued on a maintenance dose of 60mg po qd while in house, but contact was made with her methadone clinic to make them aware of her dosing as well as her recent cocaine use..",False,True,False,False,False,False,False,True,True
+180,22,"Unemployed, but used to work as metal worker.",False,False,False,False,False,False,False,False,False
+322,85,"Disp: * Tablet ( s ) * Refills: * * 7. Protonix mg Tablet, Delayed Release ( E. C. )",False,False,False,False,False,False,False,False,False
+239,96,URINE bnzodzp-POS barbitr-NEG opiates-POS cocaine-NEG amphetm-NEG mthdone-NEG ___ 06:41PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-0 Polys-52 ___ Monos-10 Basos-1 ___ Macroph-1 ___ 06:41PM CEREBROSPINAL,False,False,False,True,False,False,False,True,True
+431,110,CT,False,False,False,False,False,False,False,False,False
+117,148,The patient was seen by numerous social workers and the Addictions specialist.,False,False,False,False,False,False,False,True,True
+6,47,"She signed out against medical advice, understanding the risks of this including GI obstruction, heroin overdose or death.",True,False,False,False,False,False,False,True,True
+326,132,2. No evidence of osteomyelitis.,False,False,False,False,False,False,False,False,False
+295,2,___.,False,False,False,False,False,False,False,False,False
+2547,25,One prior suicide attempt last ___ by superficially cutting wrist and taking OD of pills; did not have treatment.,False,False,False,False,False,False,False,True,True
+158,135,"also had very poor urine output, producing only 80mL during his first 24h in - house, with a FENa<1 %, consisent with prerenal or hepatorenal syndrome.",False,False,False,False,False,False,False,False,False
+689,12,She was taken to bronchoscopy where a left main stem bronchus neoplasm was found.,False,False,False,False,False,False,False,False,False
+754,56,"Speech requires purposeful effort, with a disruption of rhythm.",False,False,False,False,False,False,False,False,False
+802,85,"cultures and sputum cultures were obtained, which were later found to be negative.",False,False,False,False,False,False,False,False,False
+138,7,"Patient admits to taking excess Adderall, Neurontin, Xanax and Suboxone.",False,False,False,True,True,False,False,True,True
+6,52,"Urine tox positive for cocaine, benzos and opiates.",False,True,False,True,False,False,False,True,True
+266,90,The patient's primary care physician was not aware of the patient taking any current neuroleptic medications as well.,False,False,False,False,False,False,False,False,False
+391,40,"2. Insulin NPH units per ml, units in the morning, - units subcutaneously every evening.",False,False,False,False,False,False,False,False,False
+976,64,"Patient had no pain on discharge, and was able to ambulate without any pain.",False,False,False,False,False,False,False,False,False
+657,146,- - <<NAME>>,False,False,False,False,False,False,False,False,False
+815,26,"Hep C, h / o drug abuse per mom ( cocaine, methadone, xanax, heroin )",True,True,False,False,False,False,False,True,True
+346,92,"Brief Hospital Course: Mr. ___ is a ___ year old man with HIV/HCV cirrhosis (complicated by ascites, small varices, no h/o HE) and previous IVDA/alcohol abuse (sober since ___, who presented to clinic with decompensated cirrhosis with ascites and overall gross volume overload, also treated for SBP and E. coli bacteremia.",False,False,False,False,False,False,True,True,True
+138,267,====================== [ ],False,False,False,False,False,False,False,False,False
+39,169,"Over the first few days of chemo, the patient also required intermittent doses of lasix to maintain a stable weight and limit bipedal edema.",False,False,False,False,False,False,False,False,False
+420,6,"Past Medical History: HepC, heroin and cocaine abuse, and pancreatitis",True,True,False,False,False,False,False,True,True
+256,10,He states these abscesses are at the site of prior IV injections.,False,False,False,False,False,False,True,True,True
+2556,122,"He has ___ h/o cocaine, mj, etoh use among others and was using all prior to this admit.",False,True,False,False,False,True,False,True,True
+183,118,You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing.,False,False,False,False,False,False,False,False,False
+645,18,The patient is a cook at a restaurant.,False,False,False,False,False,False,False,False,False
+309,39,Past Medical History: Bipolar disorder IVDU - heroin Hepatitis C reported diagnosed recently s/p Hernia surgery DVT x2 ___ ___ after hernia surgery L common iliac stent ankle surgery ___ ___ with screws Social History: ___ Family History:,True,False,False,False,False,False,True,True,True
+467,19,utox positive for oxycodone.,False,False,False,False,False,False,False,True,True
+362,43,Pertinent Results: ___ 08:45PM URINE ___ ___ ___ 08:45PM URINE ___ SP ___ ___ 08:45PM URINE ___ ___ ___ ___ 08:45PM URINE ___ ___ ___ 08:45PM URINE ___ ___ 06:55PM ___ UREA ___ ___ TOTAL ___ ANION ___ ___ 06:55PM ___ ___ 06:55PM ___ ___ ___ 06:55PM ___ ___ ___ 06:55PM ___ ___ ___ 06:55PM PLT ___ Brief Hospital Course: SAFETY:,False,False,False,False,False,False,False,False,False
+269,284,All of your blood cultures drawn at ___ ___ have been negative.,False,False,False,False,False,False,False,False,False
+613,34,Used crack days prior to admission.,False,True,False,False,False,False,False,True,True
+146,82,Code status: Full.,False,False,False,False,False,False,False,False,False
+268,37,"Denies dysuria, frequency, or urgency.",False,False,False,False,False,False,False,False,False
+173,154,Your ___ Team Followup Instructions: ___,False,False,False,False,False,False,False,False,False
+196,67,3. SUBSTANCE USE DISORDERS: #) She was maintained Suboxone for her opioid use disorder at her home dosing throughout the admission.,False,False,False,False,False,False,False,True,True
+84,104,09: T: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+555,21,"Mood, affect appropriate.",False,False,False,False,False,False,False,False,False
+515,54,3. Cholelithiasis with no evidence of cholecystitis.,False,False,False,False,False,False,False,False,False
+203,80,This pt has a very high likelihood of death by overdose or consequences related to drugs and etoh use.,False,False,False,False,False,False,False,True,True
+207,145,"On presentation to the ___ on ___, tox screen was positive for oxycodone, cocaine and benzodiapines with a reported history of EtOH abuse with inpatient treatment for withdrawal.",False,True,False,True,True,False,False,True,True
+738,47,He was tolerating clear liquids and intravenous fluids were discontinued.,False,False,False,False,False,False,False,False,False
+673,11,2. Status post heroine overdose and respiratory failure with hypoxic encephalopathy in [ * * * * ].,True,False,False,False,False,False,False,True,True
+2547,44,URINE bnzodzpn-NEG barbitrt-NEG opiates-POS cocaine-POS amphetmn-NEG mthdone-NEG ___ 07:25PM URINE COLOR-Yellow APPEAR-Clear SP ___ ___ 07:25PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG ___ 05:40PM GLUCOSE-125* UREA N-15 CREAT-1.0 SODIUM-142 POTASSIUM-4.1 CHLORIDE-108,False,True,False,False,False,False,False,True,True
+401,137,8. Lopinavir-Ritonavir 200-50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).,False,False,False,False,False,False,False,False,False
+460,47,BLOOD ASA-30* Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-POS Tricycl-NEG Brief Hospital Course: ___ yo male with history of polysubstance abuse presenting with seizure and AMS .,False,False,False,False,False,False,False,True,True
+2558,6,"History of Present Illness: ___ with history of IVDU, HBV, HCV, afib on xarelto, chronic pain, hypothyroidism, CHF, CAD who presents with altered mental status.",False,False,False,False,False,False,True,True,True
+395,45,- Diabetes on intermittent insulin - Depression with prior suicide attempts (most recently 6 months ago) - Polysubstance abuse; most heroin abuse is via nasal insufflation Social History: ___ Family History:,True,False,False,False,False,False,False,True,True
+202,161,10,False,False,False,False,False,False,False,False,False
+957,153,Also with increased IOP.,False,False,False,False,False,False,False,False,False
+448,44,URINE bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-POS ___ 06:00PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG ___ 06:00PM URINE COLOR-Yellow APPEAR-Clear,False,False,False,False,False,False,False,True,True
+355,5,M. D. DATE OF DISCHARGE: Pending.,False,False,False,False,False,False,False,False,False
+129,213,"TTE was ordered to assess possibility of shock liver, in addition to assessment of flow murmur on exam; TTE showed hyperdynamic LV systolic function with EF >",False,False,False,False,False,False,False,False,False
+479,20,Illicit drug use:occasional marijuana Physical Exam: Pulse:57 Resp:18 O2 sat:97/RA B/P ___ Left:163/81 ___ Weight:86.6 kg,False,False,False,False,False,True,False,True,True
+417,66,"He completed HS and did some college in ___ and has taken other classes ""here and there.""",False,False,False,False,False,False,False,False,False
+923,25,( MSSA ) - seizure disorder - hypertension - substance abuse - hepatitis C - erectile dysfunction - urinary retention Social History:,False,False,False,False,False,False,False,True,True
+780,260,- Aspirin 81 mg DAILY - Atorvastatin 20 mg,False,False,False,False,False,False,False,False,False
+2520,16,"Given patient's active heroin use, there was concern for endocarditis which might be causing her symptoms.",True,False,False,False,False,False,False,True,True
+383,182,# Seizure disorder,False,False,False,False,False,False,False,False,False
+836,62,"This was because of alcohol use, which irritates the pancreas.",False,False,False,False,False,False,False,False,False
+182,7,"M with a history of bipolar disorder, polysubstance abuse, chronic back pain, who presented to ___ ED on ___ complaining of severe left leg pain for several days.",False,False,False,False,False,False,False,True,True
+365,33,"Past Medical History: MSSA endocarditis in ___ seizures x ___ years depression hepatitis C anemia IVDU Social History: ___ Family History: adopted, family hx unknown Physical Exam: ADMISSION PHYSICAL EXAM: 53 kg 61""",False,False,False,False,False,False,True,True,True
+773,147,"If patient shows signs of acute narcotic withdrawal, the patient may be given an additional mg dose of Methadone as needed with careful monitoring of his respiratory status.",False,False,False,False,False,False,False,True,True
+831,73,"ST - T wave abnormalities - cannot exclude in part ischemia Clinical correlation is suggested Since previous tracing of [ * * <<DATE>> * * ], sinus tachycardia, precordial lead Q waves and further ST - T wave changes present..",False,False,False,False,False,False,False,False,False
+304,14,He has been using IVDU for the past 5 days.,False,False,False,False,False,False,True,True,True
+6,151,A urine tox screen was positive for cocaine and Methadone and negative for benzodiazepines.,False,True,False,False,False,False,False,True,True
+441,30,"This is a concentrated smear made by cytospin method, please refer to hematology for a quantitative white blood cell count, if applicable.",False,False,False,False,False,False,False,False,False
+8,204,The leading diagnosis after cardiac causes were ruled out were possible substance abuse causing respiratory suppression then hypoxia which may have induced the cardiac arrest.,False,False,False,False,False,False,False,True,True
+379,4,"The patient is a ___ y/o F with reported h/o depression, anxiety, PTSD, opiate dependence on methadone, as well as hepatitis C, cirhosis, and diabetes mellitus who was BIBA after she endorsed suicidal ideation to staff at ___.",False,False,False,False,False,False,False,True,True
+423,19,Intravenous drug abuse Seizure disorder ADHD Opioid dependence on Suboxone Prior right antecubital abscess,False,False,False,False,False,False,True,True,True
+243,55,Per the patient's mother the patient uses marijuana but she was unsure of how much,False,False,False,False,False,True,False,True,True
+196,26,She has had several relapses; one in ___ and another approximately one week ago.,False,False,False,False,False,False,False,True,True
+314,15,"He states he often uses the benzodiazepines and opiates as ""landing gear"" for the crystal meth.",False,False,True,True,False,False,False,True,True
+855,97,"is a year old with history of seizures in the setting of alcohol withdrawal, known IVDU ( Heroin ), Hepatitis C, was interrogated by police for shoplifting, on the same day developed episode of shaking in all four limbs.",True,False,False,False,False,False,True,True,True
+2502,2,No Drug Allergy Information on File Attending: ___ Chief Complaint: Heroin Overdose Major Surgical or Invasive Procedure: None History of Present Illness:,True,False,False,False,False,False,False,True,True
+2501,16,"Past Medical History: ARTHRALGIA BACK PAIN BIPOLAR DISORDER EXUDATIVE TONSILLITIS HEPATITIS C HEROIN ABUSE Social History: 1 pack/day smoker Endorses some alcohol use though he is vague, 1 sixpacks per week Has a history of heroin use as well as cocaine use.",True,True,False,False,False,False,False,True,True
+375,79,"The delirium was thought likely from a combination of ARF, uremia, and cocaine / heroin withdrawal.",True,True,False,False,False,False,False,True,True
+183,107,You were admitted to ___ after an accident where you were dragged by a car.,False,False,False,False,False,False,False,False,False
+2542,143,Brief Hospital Course: ___ is a ___ yo L-handed male with hx of IVDU and hepatitis C who presents with a R MCA stroke likely ___ arterial dissection caused by recent assault in ___.,False,False,False,False,False,False,True,True,True
+659,21,"1. Metastatic pancreatic carcinoma diagnosed in [ * * Month ( only ) * * ] of [ * * * * ] - CT scan at [ * * Hospital3 * * ] done weeks ago showed mets to liver, lungs, and obstruction of portal, splenic veins 2. GI bleeding - - recent, [ * * - * * ] at [ * * Hospital3 * * ],",False,False,False,False,False,False,False,False,False
+2635,46,"Warm, mild tenderness.",False,False,False,False,False,False,False,False,False
+737,103,"Discharge Instructions: Dear Mr ___,",False,False,False,False,False,False,False,False,False
+314,19,"Since this time, reports had been self-prescribing previous leftover gabapentin from one of his old pill bottles, cannot remember exact prescription dose but believes was between 600-800 mg PO TID for about ___ days.",False,False,False,False,False,False,False,True,True
+878,32,Pertinent Results: [ * * <<DATE>> * * ] 05: 50AM BLOOD WBC - 9. RBC - 3. * Hgb -,False,False,False,False,False,False,False,False,False
+243,36,Patient reports diagnosis of bipolar disorder and polysubstance abuse in the past.,False,False,False,False,False,False,False,True,True
+323,94,"Congestive Heart Failure(chronic, diastolic), History of aortic valve endocarditis(Enterococcus), History of IV drug abuse, on Methadone maintenance, Hepatitis B and C, History of Hepatitis A, Dyslipidemia, Hypertension(resolved with bariatric surgery), Diabetes Mellitus(resolved with bariatric surgery), History of Splenic Infarct(endocarditis), Low Testosterone, Nephrolithiasis, Ventral Hernia s/p AVR(25mm CE tissue) ___ - ___ Dr. ___ of a neurofibroma on the thoracic spine, Bariatric surgery with Roux-en-Y bypass ___, Right total knee replacement",False,False,False,False,False,False,True,True,True
+6,169,"In the evening of [ * * <<DATE>> * * ],",False,False,False,False,False,False,False,False,False
+153,16,Again endorses using heroin yesterday.,True,False,False,False,False,False,False,True,True
+35,27,"Per Psychiatry, the patient's Celexa was tapered to off, and the patient was continued on Remeron on discharge.",False,False,False,False,False,False,False,False,False
+55,107,<<NAME>>,False,False,False,False,False,False,False,False,False
+2623,10,He has recently been using IV heroin though is reluctant to discuss this fact as his wife does not know he uses heroin.,True,False,False,False,False,False,True,True,True
+164,103,"3) PSYCHIATRIC: #) Depression, r/o Substance Induced Mood Disorder Patient was actively withdrawing from heroin upon admission to the unit and thus, her depression could not be evaluated for the first several days.",True,False,False,False,False,False,False,True,True
+809,85,DM type 5. former heroin user 6. morbid obesity Discharge Condition:,True,False,False,False,False,False,False,True,True
+251,146,LYMPHS - 24.,False,False,False,False,False,False,False,False,False
+167,76,# IVDU: ___ reported active use.,False,False,False,False,False,False,True,True,True
+2642,52,The superior aspect exhibits slight arterial enhancement and washout which is consistent with a focus of tumor.,False,False,False,False,False,False,False,False,False
+337,100,"Of note, on the day of discharge, a nurse noted that Mr. ___ had stored some of his hospital-administered pills, which appeared to be most consistent with dilaudid and ativan, in a drawer.",False,False,False,False,True,False,False,True,True
+2618,84,"======= ___ with a history of IVDU and bipolar disorder who presented to OSH with altered mental status and found to be in acute liver failure with encephalopathy, transaminitis and coagulopathy; MELD of 15.",False,False,False,False,False,False,True,True,True
+2578,82,# Drug overdose in setting of known polysubstance abuse:,False,False,False,False,False,False,False,True,True
+112,78,- f/u with PCP regarding further treatment .,False,False,False,False,False,False,False,False,False
+807,60,2. ) Cardiac:,False,False,False,False,False,False,False,False,False
+304,99,"# Active IVDU - Patient on suboxone for years, this was continued.",False,False,False,False,False,False,True,True,True
+214,108,Tylenol to mg p. o.,False,False,False,False,False,False,False,False,False
+814,225,Thrombocytopenia:,False,False,False,False,False,False,False,False,False
+451,38,"This has since persisted in intensity, ___.",False,False,False,False,False,False,False,False,False
+53,87,"Crack cocaine, heroin, and alcohol abuse.",True,True,False,False,False,False,False,True,True
+854,28,After being stable in the Intensive Care,False,False,False,False,False,False,False,False,False
+833,4,"She reportedly took ""many pills"" of lithium and mirtazapine around 7PM on ___ for sleep and depressed mood.",False,False,False,False,False,False,False,True,True
+279,38,PHYSICAL EXAMINATION ON PRESENTATION: Temperature was 96.,False,False,False,False,False,False,False,False,False
+615,104,"A / P: 50F Hepatitis C, IVDU presents from OSH with tylenol OD level >",False,False,False,False,False,False,True,True,True
+2558,138,This is consistent with a hematoma.,False,False,False,False,False,False,False,False,False
+197,19,"Polysubstance abuse, longstanding: ETOH, ___, barbituates, opiates, cocaine, heroin, tobacco-has been to many rehabs, buys illicits ?",True,True,False,False,False,False,False,True,True
+268,151,8. Oral candidiasis.,False,False,False,False,False,False,False,False,False
+289,34,"tobacco socially, used to smoke 1ppd, ETOH [ * * - * * ] drinks per week, h / o cocaine in tox screen in [ * * - * * ]",False,True,False,False,False,False,False,True,True
+550,83,Please correlate clinically.,False,False,False,False,False,False,False,False,False
+412,21,"He reported that up until recently, he had owned his own business and was doing well, but has since lost custody of his children, become homeless, and has been using more drugs in order to end his life.",False,False,False,False,False,False,False,True,True
+425,100,"Utox on admission was positive for oxycodone,which the patient stated she took the day prior to admission.",False,False,False,False,True,False,False,True,True
+46,65,"Urine tox with benzos, otherwise negative Ascites: ~2300 WBC ( % PMN ), gluc 63, alb 0.",False,False,False,False,False,False,False,True,True
+402,20,- States also has used heroin IV & marijuana in past (but not recently).,True,False,False,False,False,True,True,True,True
+415,37,Hyperlipidemia.,False,False,False,False,False,False,False,False,False
+137,16,Past Medical History: IVDA Hepatitis C not treated Anxiety/PTSD,False,False,False,False,False,False,True,True,True
+487,224,"[ * * First Name11 ( Name Pattern1 ) * * ] [ * * Last Name ( NamePattern4 ) * * ],",False,False,False,False,False,False,False,False,False
+131,125,5. Endocrine -,False,False,False,False,False,False,False,False,False
+330,44,_________________________________________________________,False,False,False,False,False,False,False,False,False
+178,72,"urinalysis remarkable for moderate [ * * Hospital3 * * ], specific gravity of 1. 015, pH 5, nitrite negative, red [ * * Hospital3 * * ] cells, to white [ * * Hospital3 * * ]",False,False,False,False,False,False,False,False,False
+24,24,Positive cocaine use.,False,True,False,False,False,False,False,True,True
+17,5,CHIEF COMPLAINT:,False,False,False,False,False,False,False,False,False
+183,48,"Brief Hospital Course: Mr. ___ is a ___ y.o. male with PMH significant for Hepatitis C, insulin dependent diabetes, and chronic opiate abuse on Methadone maintenance who was admitted to ___ from an outside facility on ___ after trauma of unclear circumstances.",False,False,False,False,False,False,False,True,True
+861,8,"Reports binge drinking approximately beers, several shots of Tequilla and injecting cocaine at approximately to p. m.",False,True,False,False,False,False,True,True,True
+673,23,History of snorting heroine.,True,False,False,False,False,False,False,True,True
+749,41,"On arrival at [ * * Hospital1 * * ], his blood pressure was / and heart rate was 99.",False,False,False,False,False,False,False,False,False
+169,61,Urine tox screen was positive for cocaine and methadone.,False,True,False,False,False,False,False,True,True
+205,73,"In the setting of heroin overdose and likely aspiration pneumonia, s/p bronch mucus plug removal and sampling for culture.",True,False,False,False,False,False,False,True,True
+463,179,Ileus was likely multifactorial and ___ inflammation/pancreatitis +/- opiate use +/- C. diff.,False,False,False,False,False,False,False,True,True
+280,197,"T4-T5: Small right paracentral protrusion, no canal or foraminal disc desiccation narrowing.",False,False,False,False,False,False,False,False,False
+2524,59,The patients urine was sent for electrolytes and his ARF was consistent with pre-renal etiology secondary to cocaine induced renovascular constriction.,False,True,False,False,False,False,False,True,True
+244,91,"AXIS I: Polysubstance abuse, mood d/o NOS, R/O PTSD AXIS II: Deferred AXIS III: None AXIS IV: Recent miscarriage, recent assault, homelessness AXIS V: 60",False,False,False,False,False,False,False,True,True
+320,56,Discharge Disposition:,False,False,False,False,False,False,False,False,False
+2581,8,"He reported SI ""sometimes"" and had a plan of ""killing myself with drugs"".",False,False,False,False,False,False,False,True,True
+476,41,O2 sat % RA Gen -,False,False,False,False,False,False,False,False,False
+70,39,7. Aldactone mg three times a day.,False,False,False,False,False,False,False,False,False
+253,18,History of heroin use but none in the last ___ years.,True,False,False,False,False,False,False,True,True
+2615,32,CXR,False,False,False,False,False,False,False,False,False
+547,73,"ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ½Increase your intake of fluids and fiber, as narcotic pain medicine can cause constipation.",False,False,False,False,False,False,False,False,False
+325,142,She has a long standing history of hypertension and will only take clonidine patch at home.,False,False,False,False,False,False,False,False,False
+2512,108,"Explained that she would use these substances if available, but would not actively seek them out.",False,False,False,False,False,False,False,True,True
+860,7,She was placed in a torso brace but her course was complicated by respiratory failure requiring intubation.,False,False,False,False,False,False,False,False,False
+41,31,PHYSICAL EXAMINATION:,False,False,False,False,False,False,False,False,False
+2498,72,Depressive disorder Not-Otherwise-Specified (Considerations include Major depressive disorder and Substance-induced mood disorder),False,False,False,False,False,False,False,True,True
+104,181,"Brief Hospital Course: A/P: ___ w hx of ESRD on HD, HTN, HLD, HCV, borderline DM, prior substance abuse ___ yrs ago), and smoking history who developed seveer R occipital HA on ___ in setting of malaise, and then developed left visual field cut and subjective weakness.",False,False,False,False,False,False,False,True,True
+291,17,1. Type diabetes.,False,False,False,False,False,False,False,False,False
+288,329,He required significant doses of hydromorphone after the VATS procedure which is actively being weaned down.,False,False,False,False,False,False,False,False,False
+81,27,"Also, of note, the patient reports abusing cocaine about once or twice per month and reports that his most recent use was one week prior to admission.",False,True,False,False,False,False,False,True,True
+957,218,One ( ) injection Injection TID ( times a day ).,False,False,False,False,False,False,False,False,False
+981,51,"Neck, supple, no lymphadenopathy.",False,False,False,False,False,False,False,False,False
+2519,81,-DTRs: Bi Tri ___ Pat Ach L 2 2 2 2 1 R 2 2 2 2 1 Plantar response was flexor bilaterally.,False,False,False,False,False,False,False,False,False
+585,4,"The patient is a ___ with medical history of hepatitis C, cocaine abuse who presents from home with several days of left wrist swelling.",False,True,False,False,False,False,False,True,True
+268,136,"___ Monos-5.5 Eos-1.8 Baso-0.4 ___ 05:45AM BLOOD Plt ___ Brief Hospital Course: ___ y/o M with a h/o IVDU, presenting to ___ w/rhabdomyolysis, compartment syndrome, acute renal failure, NSTEMI, thrombocytopenia, now stable and discharged from MICU.",False,False,False,False,False,False,True,True,True
+730,86,Start Acetaminophen 1000 mg every 6 hours as needed for fever/pain 3.,False,False,False,False,False,False,False,False,False
+948,87,"YO female with h / o psychotic depression and prior suicide attempt presents with presumed quetiapine, citalopram, benztropine, and TCA overdose intubated for airway protection.. )",False,False,False,False,False,False,False,True,True
+2600,276,"If you experience any of the symptoms below, please seek emergency medical attention by calling Emergency Medical Services (dialing 911).",False,False,False,False,False,False,False,False,False
+907,11,Per ED patient's father is cancer patient and has opiates at home so felt that patient may have OD on opiates.,False,False,False,False,True,False,False,True,True
+678,150,"7. FEN - As above, the patient was persistently volume overloaded and her total volume in was minimized by concentrating all fluids that she received.",False,False,False,False,False,False,False,False,False
+245,85,CPR was continued and she received 4 rounds of epinephrine with an approximate time before ROSC of 45 minutes.,False,False,False,False,False,False,False,False,False
+96,6,This is a - year - old woman who presents as a transfer from [ * * Hospital6 * * ] after an episode of syncope in which she fell and fractured her right wrist on [ * * <<DATE>> * * ].,False,False,False,False,False,False,False,False,False
+686,214,The patient was doing well.,False,False,False,False,False,False,False,False,False
+2576,73,"SKIN: dry, eczematous skin over right hand with raised, brown plaques LYMPH:",False,False,False,False,False,False,False,False,False
+949,21,occ marijuana use.,False,False,False,False,False,True,False,True,True
+191,54,2. Poly - substance abuse.,False,False,False,False,False,False,False,True,True
+417,5,LIVER TRANSPLANT SURGERY SERVICE CHIEF COMPLAINT:,False,False,False,False,False,False,False,False,False
+6,122,"IMPRESSION AT ADMISSION: This is a - year - old African - American male with a history of polysubstance abuse, HIV and hepatitis C who came to the Emergency Department with stuporous mental status changes from detox facility.",False,False,False,False,False,False,False,True,True
+57,21,Also cocaine usem last + tox in mid - [ * * - * * ] ),False,True,False,False,False,False,False,True,True
+239,176,Continue to counsel patient on subtance abuse issues if she continues to use illicit drugs.,False,False,False,False,False,False,False,True,True
+2502,47,"She signed out against medical advice, understanding the risks of this including GI obstruction, heroin overdose or death.",True,False,False,False,False,False,False,True,True
+775,92,"Given history of significant alcohol use, presentation likely due to alcoholic neuropathy.",False,False,False,False,False,False,False,False,False
+116,42,It consists of multiple tan tissue fragments measuring up to 0.4 cm and is entirely submitted in cassette 1A,False,False,False,False,False,False,False,False,False
+16,15,Heart rate of / 71.,False,False,False,False,False,False,False,False,False
+316,106,7. Prednisone taper currently at mg p. o.,False,False,False,False,False,False,False,False,False
+2513,150,"SECONDARY DIAGNOSES: Septic pulmonary emboli, improved Asymptomatic bacteriuria Opioid use disorder",False,False,False,False,False,False,False,True,True
+148,45,======================== ___ 0721 Temp: 98.2 PO BP: 171/100 R Lying HR: 78 RR: 18 O2 sat: 96%,False,False,False,False,False,False,False,False,False
+456,50,lives with his girlfriend.,False,False,False,False,False,False,False,False,False
+2513,43,"Of note, patient has been taking 9 tabs of 2mg hydromorphone a day (about 4mg q6H) buying off the streets.",False,False,False,False,True,False,False,True,True
+142,134,"During this period Ms. [ * * Known lastname * * ] clinical picture was one of spiking fevers to 104, having an increased heart rate up into the 150s, decreased oxygen saturation to % on room air and increased cardiac enzymes.",False,False,False,False,False,False,False,False,False
+142,101,<<NAME>>,False,False,False,False,False,False,False,False,False
+30,341,need follow - up levels in [ * * - * * ],False,False,False,False,False,False,False,False,False
+130,86,"Patient states that she was raped on day of ED presentation, and also reports having suicidal thoughts with plan, in setting of medication nonadherence and substance use.",False,False,False,False,False,False,False,True,True
+976,63,The patient is also started on prn Dilaudid for increasing pain.,False,False,False,False,False,False,False,False,False
+244,28,PAST MEDICAL HISTORY: Reports 2 previous cocaine-induced seizures.,False,False,False,False,False,False,False,True,True
+349,114,6. Acyclovir p. r. n. 7. Ditropan.,False,False,False,False,False,False,False,False,False
+231,46,Alcohol and opiate withdrawal:,False,False,False,False,False,False,False,True,True
+129,22,"boyfriend and mother assumed that she was """" strung out on drugs """".",False,False,False,False,False,False,False,True,True
+389,136,"Urine and tox screen remarkable for cocaine, benzos and opiates.",False,True,False,True,False,False,False,True,True
+130,11,Also states that she has been using heroin on and off.,True,False,False,False,False,False,False,True,True
+819,85,05: 05AM BLOOD,False,False,False,False,False,False,False,False,False
+488,6,History of Present Illness: ___ F w/ reported h/o depression and anxiety who presented requesting opiate detox and later endorsed SI.,False,False,False,False,False,False,False,True,True
+399,70,"Patient states he inhales cocaine and heroin most days, occasional inhaled crystal meth, and 1 pack per week of cigarettes.",True,True,True,False,False,False,False,True,True
+2581,5,"Patient is a ___ y/o man with a history of depression, polysubstance dependence, panic disorder, and previous sucidal ideation who self-presented to the ED with chest pain and suicidal ideation.",False,False,False,False,False,False,False,True,True
+79,100,left pleural effusion is new or newly apparent and there is increasing atelectasis at the left base.,False,False,False,False,False,False,False,False,False
+614,25,1. Aldactone.,False,False,False,False,False,False,False,False,False
+4,112,stain was repeated twice at the outside hospital and found to be negative both times.,False,False,False,False,False,False,False,False,False
+231,34,"Alcohol abuse, currently drinks 1 pint vodka/day h/o cocaine/heroin abuse, none ___ year, on methadone maintenance Hepatitis C: no history of treatment, ___ genotype, VL ___.",True,True,False,False,False,False,False,True,True
+2557,87,"You were initially taken to the hospital after a fall at rehab, and then transferred to ___ after a CT scan showed a fracture of the second vertebrae in your spine.",False,False,False,False,False,False,False,False,False
+180,130,His urine tox screen at OSH was reportedly ( + ) for opiods and cocaine.,False,True,False,False,False,False,False,True,True
+112,11,"She has been off her home meds (topamax, klonopin, baclofen, bentyl, doxapin, neurontin) since relapse.",False,False,False,False,False,False,False,True,True
+260,29,"5. h / o polysubstance use including EtOH with h / o withdrawal seizures ( daily vodka drinker pint - liter ), h / o heroin IVDU, Klonapin, last detox at [ * * Location ( un ) * * ] house in [ * * Hospital1 * * ].",True,False,False,False,False,False,True,True,True
+382,106,"She had drug (Rx, Marijuana) and alcohol problems as well.",False,False,False,False,False,True,False,True,True
+2579,11,"Past Medical History: PMH: HCV, HIV , HTN, depression, EtOH'ism, IVDU, diet-controlled DM PSH: Right IH x 2",False,False,False,False,False,False,True,True,True
+195,47,"Currently, he is remission.",False,False,False,False,False,False,False,False,False
+350,36,- coccidomycosis pneumonia - right sided pneumothorax s / p CT - rectal bleeing [ * * - * * ] hemorrhoids - ARf - hyponatremia - thrombocytopenia - anasarca - cholestatic hepatitis Social History: retired mechanic married no tobacco occassional etoh born in [ * * Location ( un ) * * ],False,False,False,False,False,False,False,False,False
+797,49,"4, platelet count 174.",False,False,False,False,False,False,False,False,False
+467,139,Milk of Magnesia 30 mL PO DAILY:PRN constipation 13.,False,False,False,False,False,False,False,False,False
+252,163,Mr. ___ is a ___ y/o male with active IVDA with heroin and oxycodone who presented with dyspnea and fever and was found to have Tricuspid Valve Endocarditis caused by Methicillin Sensitive Staph Aureus (MSSA) with multiple septic emboli to the lungs. .,True,False,False,False,True,False,True,True,True
+749,38,<<NAME>>,False,False,False,False,False,False,False,False,False
+2551,14,"In speaking with his brother, ___, he is estranged from the family and has been for over ___ years given his prior IV drug use, alcohol abuse and thievery.",False,False,False,False,False,False,True,True,True
+2631,191,You were transferred from an outside hospital following an unknown period of unconsciousness following a heroin overdose.,True,False,False,False,False,False,False,True,True
+948,127,Care Discharge Diagnosis: acute lung injury ventilator acquired pneumonia depression with psychositic features suicide attempt drug overdose hepatitis C Discharge Condition:,False,False,False,False,False,False,False,True,True
+41,25,5. Digoxin 0. mg p. o.,False,False,False,False,False,False,False,False,False
+438,212,"Extended Care Facility: ___ Discharge Diagnosis: Primary Diagnosis: Pulmonary Emboli, bilateral Deep vein thrombosis, bilateral Alcohol withdrawal Benzodiazepine intoxication Atrial fibrillation with rapid ventricular rate",False,False,False,True,False,False,False,True,True
+756,254,IMPRESSION:,False,False,False,False,False,False,False,False,False
+169,24,"Regarding drug use, the pt said that he typically snorts or injects heroine.",True,False,False,False,False,False,True,True,True
+2524,103,You were found to have acute renal failure that was likely secondary to cocaine found in your urine.,False,True,False,False,False,False,False,True,True
+494,106,<<NAME>>,False,False,False,False,False,False,False,False,False
+365,77,The visualized portion of the IVC is unremarkable.,False,False,False,False,False,False,False,False,False
+361,5,"___ year old man with h/o depression and polysubstance abuse, on Tianeptine, s/p v-fib arrest at group home.",False,False,False,False,False,False,False,True,True
+814,248,"Pt states that she was going to be a candidate for transplant, but due to her ongoing IV drug use, it was felt that patient was not a transplant candidate at this time.",False,False,False,False,False,False,True,True,True
+252,40,Mucous membranes were moist.,False,False,False,False,False,False,False,False,False
+212,22,"The was described as """" throbbing """" and diffusely located.",False,False,False,False,False,False,False,False,False
+159,201,"However, towards the end of her hospital stay she admitted to IV drug use prior to admission.",False,False,False,False,False,False,True,True,True
+75,135,Acute intoxication with cocaine and [ * * Hospital * * ],False,True,False,False,False,False,False,True,True
+2564,111,You were admitted to the hospital for an infected collection on your neck.,False,False,False,False,False,False,False,False,False
+2530,44,"#Antisocial Personality Traits -The patient was noted to often be medication seeking on the unit, especially for benzodiazepines.",False,False,False,True,False,False,False,True,True
+151,149,"9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).",False,False,False,False,False,False,False,True,True
+341,100,"Felt her right hand at the site of osteo was well heal, non-tender, with no erythema or drainage and therefore not concerned for acute infection.",False,False,False,False,False,False,False,False,False
+469,95,On admission the patient was believed to be encephalopathic from her liver failure and she was started on Lactulose via a nasogastric tube.,False,False,False,False,False,False,False,False,False
+2629,57,DDx includes BZD overdose as well.,False,False,False,True,False,False,False,True,True
+902,30,"No cocaine, heroin, crack.",False,True,False,False,False,False,False,False,True
+34,78,Urinalysis negative.,False,False,False,False,False,False,False,False,False
+274,20,Positive opiates in ED.,False,False,False,False,False,False,False,True,True
+292,112,"You are at high risk for getting very sick, and even dying should you continue to use.",False,False,False,False,False,False,False,True,True
+35,32,4. Aspiration pneumonia ( methicillin - resistant Staphylococcus aureus ).,False,False,False,False,False,False,False,False,False
+179,61,2. Overdose/Polysubstance abuse/Altered Mental Status:,False,False,False,False,False,False,False,True,True
+2633,16,Past Medical History: IVDA Hepatitis C not treated Anxiety/PTSD,False,False,False,False,False,False,True,True,True
+100,31,"IVDA, been sober for >1. years - ETOH quit smoking months ago, pack year hx lives in [ * * Hospital1 * * ]",False,False,False,False,False,False,True,False,True
+860,181,Patient with initial HCT 30.7 but then dropped to 25 for unclear etiology.,False,False,False,False,False,False,False,False,False
+579,90,The mitral valve leaflets are mildly thickened.,False,False,False,False,False,False,False,False,False
+63,133,Disp: * Capsule ( s ) * Refills: * * 12.,False,False,False,False,False,False,False,False,False
+444,19,"He does acknowledge IV heroin use, approximately 4 times over the past few months and rarely prior to that time, using clean/unshared needles to inject; he is uncertain as to whether onset of fevers coincided with recent increase in heroin use.",True,False,False,False,False,False,True,True,True
+457,222,You need to have a repeat EGD in approximately days.,False,False,False,False,False,False,False,False,False
+303,194,1. Gabapentin 800 mg PO TID 2. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheeze 3.,False,False,False,False,False,False,False,False,False
+162,7,"Patient is currently on methadone for treatment of heroine addiction, clean for the past ___ years.",True,False,False,False,False,False,False,False,True
+139,114,1. The patient should call ( [ * * Telephone / Fax ( ) * * ],False,False,False,False,False,False,False,False,False
+274,5,___ heroin abuser with a hx of HCV p/w altered mental status s/p ingestion of up to 80 tabs of 0.25 mg risperidone 45 mins PTA.,True,False,False,False,False,False,False,False,True
+2591,183,Patient will need to follow up with drug addiction counselor to prevent relapse.,False,False,False,False,False,False,False,True,True
+77,55,Lungs: Clear to auscultation bilaterally.,False,False,False,False,False,False,False,False,False
+458,201,Furosemide 40 mg PO DAILY 9.,False,False,False,False,False,False,False,False,False
+336,31,SERUM TOX: ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG,False,False,False,False,False,False,False,False,False
+153,10,Past Medical History: PAST MEDICAL HISTORY: -IV drug abuse -hepatitis C -hypertension -diverticulitis -bipolar disorder -chronic pain -erectile dysfunction,False,False,False,False,False,False,True,True,True
+207,208,"As you know, You were orginally admitted to ___ because you were found unconscious, due to overdose.",False,False,False,False,False,False,False,True,True
+402,3,<<NAME>>:,False,False,False,False,False,False,False,False,False
+337,97,"In the context of emphasizing the benefits of abstinence from injection, he was also instructed, should he opt to continue injecting drugs, about the importance of meticulous injection hygiene when injecting as a way of somewhat decreasing his risk for soft tissue infections in the future. .",False,False,False,False,False,False,True,True,True
+966,65,RDW - 15. Plt Ct - [ * * <<DATE>> * * ] 07: 11PM BLOOD CK - MB - cTropnT - <0.,False,False,False,False,False,False,False,False,False
+183,6,No Known Allergies to Drugs Attending: [ * * First Name3 ( LF ) * * ],False,False,False,False,False,False,False,False,False
+304,84,"With the periportal edema and trace perihepatic ascites, this is likely secondary to acute hepatitis or acute on chronic liver disease.",False,False,False,False,False,False,False,False,False
+147,211,Sartorius flap operation considered but postpostoned at this time.,False,False,False,False,False,False,False,False,False
+404,4,"Per report and per family, he has been sick for the past 2 months with nausea/vomiting and headaches and went to obtain care and was supposed to obtain an LP but left after demanding pain meds with most of his care via ED visits.",False,False,False,False,True,False,False,False,True
+145,141,# Substance abuse:,False,False,False,False,False,False,False,True,True
+796,181,This lasted roughly ten minutes and ceased after administration of 8mg of IV ativan.,False,False,False,False,False,False,False,False,False
+203,83,He has denied any history of suicidal thoughts or attempts and he does not have a discernible mental illness other than substance dependence.,False,False,False,False,False,False,False,True,True
+816,110,symptoms resolved upon arrival to medical service.,False,False,False,False,False,False,False,False,False
+204,209,SECONDARY DIAGNOSIS - R shoulder pain possible septic arthritis - Opioid Use Disorder - HCV,False,False,False,False,False,False,False,True,True
+355,15,"noted that he could not sleep and he """" could not find a comfortable position.",False,False,False,False,False,False,False,False,False
+75,95,Pt is a yo woman who presented with acute cocaine and [ * * Month / <<NAME>> / Year * * ] intoxication with hospital course complicated by [ * * Month / <<NAME>> / Year * * ] withdrawl..,False,True,False,False,False,False,False,True,True
+6,2,No Drug Allergy Information on File Attending: ___ Chief Complaint: Heroin Overdose Major Surgical or Invasive Procedure: None History of Present Illness:,True,False,False,False,False,False,False,True,True
+406,10,___ male with a past medical history significant for PTSD and IVDA who was transferred to ___ for evaluation and management of an epidural abscess.,False,False,False,False,False,False,True,True,True
+267,32,The patient had one out of four bottles of coag negative Staph.,False,False,False,False,False,False,False,False,False
+135,73,URINE Color-Brown Appear-Cloudy Sp ___ ___ 01:50PM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-100 Ketone-NEG Bilirub-SM Urobiln-0.2 pH-5.0 Leuks-NEG ___ 01:50PM URINE RBC-4* WBC-15* Bacteri-FEW Yeast-NONE Epi-0 ___ 01:50PM URINE CastHy-16* ___ 01:50PM URINE Mucous-RARE ___ 01:50PM URINE bnzodzp-NEG barbitr-NEG opiates-POS cocaine-NEG amphetm-NEG mthdone-NEG,False,False,False,False,False,False,False,True,True
+2543,109,___ year old male with PMHx of IVDU who presented to ___ ED with left hand swelling worsening over 2 days.,False,False,False,False,False,False,True,True,True
+265,41,"q. n. s., Colace mg p. o. b. i. d., Levothyroxine sodium mcg p. o.",False,False,False,False,False,False,False,False,False
+4,126,<<NAME>>,False,False,False,False,False,False,False,False,False
+775,87,"Brief Hospital Course: Ms. ___ is a ___ y.o. woman with a history of depression, hypothyroidism, polysubstance abuse (EtOH and benzos), and neuropathic pain presenting with worsening bilateral foot pain.",False,False,False,True,False,False,False,True,True
+628,19,"Past Medical History: Hepatitis C / cirrhosis Hepatoma - on Erbitux Esophageal varices Ascites Social History: lives with wife remote tobacco and etoh IV heroin last use 25yrs ago Family History: sister with ovarian cancer Physical Exam: T BP / HR RR O2sats % RA Gen: NAD, A & O times HEENT: clear OP, PERRL, mmm Neck: no JVD, no LAD Lungs: CTAB",True,False,False,False,False,False,True,True,True
+997,187,"DISCHARGE STATUS: Rehabilitation facility at [ * * Hospital6 * * ],",False,False,False,False,False,False,False,False,False
+324,96,An orogastric tube courses into the stomach and terminates in the fundus.,False,False,False,False,False,False,False,False,False
+983,219,5. Intravenous drug abuse.,False,False,False,False,False,False,True,True,True
+529,25,Had an embolic stroke in his ___.,False,False,False,False,False,False,False,False,False
+202,119,3. Persistent diffuse subcutaneous reticular edema.,False,False,False,False,False,False,False,False,False
+69,24,8. Lumbosacral osteopenia.,False,False,False,False,False,False,False,False,False
+214,29,4. Gastroesophageal reflux disease.,False,False,False,False,False,False,False,False,False
+173,150,10,False,False,False,False,False,False,False,False,False
+2516,99,"On admission to the hospital, his urine toxicology screen was positive for opioids and oxycodone, but his urine and serum toxicology screens were otherwise negative.",False,False,False,False,False,False,False,True,True
+202,162,"The rhabdo was thought to be due to stasis, cocaine use leading to muscle infarction, possible seizure while he was down, or possible compartment syndrome.",False,True,False,False,False,False,False,True,True
+414,54,q. d.,False,False,False,False,False,False,False,False,False
+625,35,Past Medical History: IVDU Bipolar disorder asthma s / p right knee surgery Social History:,False,False,False,False,False,False,True,True,True
+357,38,6. Multivitamin one p. o.,False,False,False,False,False,False,False,False,False
+348,218,Home Discharge Diagnosis: Primary Diagnosis: - LUE cellulitis - polysubstance abuse,False,False,False,False,False,False,False,True,True
+291,22,Pertinent Results: ___ 03:40PM URINE HOURS-RANDOM ___ 03:40PM URINE UCG-NEGATIVE ___ 03:40PM URINE bnzodzpn-NEG barbitrt-POS opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG ___ 12:30PM GLUCOSE-97 UREA N-9 CREAT-0.7 SODIUM-140 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-24 ANION GAP-14 ___ 12:30PM estGFR-Using this ___ 12:30PM ALT(SGPT)-31 AST(SGOT)-20 LD(LDH)-156 ALK PHOS-96 TOT BILI-0.2 ___ 12:30PM LIPASE-49 ___ 12:30PM TSH-0.042* ___ 12:30PM T3-93 FREE T4-1.5 ___ 12:30PM,False,False,False,False,False,False,False,True,True
+446,19,<<NAME>>,False,False,False,False,False,False,False,False,False
+625,250,PredniSONE 20 mg PO DAILY Tapered dose - DOWN,False,False,False,False,False,False,False,False,False
+2526,89,============== #Opiate Dependence:,False,False,False,False,False,False,False,True,True
+202,123,No valvular vegetations identified.,False,False,False,False,False,False,False,False,False
+13,229,5. History of alcohol and IV drug abuse.,False,False,False,False,False,False,True,True,True
+366,77,It did improve slightly with volume repletion.,False,False,False,False,False,False,False,False,False
+627,186,"ASPIRATION PNEUMONIA Had infiltrate, fever, and clear aspiration after seizing with tongue trauma.",False,False,False,False,False,False,False,False,False
+357,59,Skin is warm and dry.,False,False,False,False,False,False,False,False,False
+768,57,"0, pulse 80, blood pressure / 60.",False,False,False,False,False,False,False,False,False
+214,19,Pertinent Results: ___ 06:22PM URINE bnzodzpn-NEG barbitrt-NEG opiates-POS cocaine-NEG amphetmn-NEG mthdone-NEG ___ 06:18PM URINE COLOR-Amber APPEAR-Cloudy SP ___ ___ 06:18PM URINE BLOOD-LG NITRITE-NEG PROTEIN-100 GLUCOSE-100 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG ___ 06:18PM URINE RBC->50 ___ BACTERIA-MOD YEAST-NONE ___ 05:48PM LACTATE-3.1* ___ 05:47PM GLUCOSE-274* UREA N-30* CREAT-2.5*,False,False,False,False,False,False,False,True,True
+7,106,#H/O IVDU: Sober x ___ years.,False,False,False,False,False,False,True,True,True
+419,57,He was felt to have viral enteritis and was treated supportively with improvement in his symptoms over ___ days following admission.,False,False,False,False,False,False,False,False,False
+330,71,"Brief Hospital Course: SUMMARY: ======== ___ year-old female with opiate use disorder currently on methadone, who was transferred from OSH where she presented with a 3-week history of neck swelling, found to have R supraclavicular neck abscess growing MRSA, discharged against medical advice on oral antibiotics.",False,False,False,False,False,False,False,True,True
+405,59,"Brief Hospital Course: Mr. ___ is a ___ year old gentleman with a remote history of opiate abuse complicated by injection of heroin, on suboxone therapy, who presented to an outside hospital with right leg swelling, discoloration and pain and was found to have an extensive DVT.",True,False,False,False,False,False,True,True,True
+593,76,Alert and interactive.,False,False,False,False,False,False,False,False,False
+326,24,"Currently at ___ inpatient detox program, previously abusing ___, heroine, Percocet, cocaine, smokes half a pack a day of cigarettes, alcohol drinks regularly, unemployed, lives alone.",True,False,False,False,False,False,False,False,True
+450,30,"Past Medical History: - IVDU history - NIDDM - Reports history of seizure several months ago, in the setting of EtOH use - HTN.",False,False,False,False,False,False,True,True,True
+136,105,He was seen by social work and connected with outpatient support services for drug abuse cessation. .,False,False,False,False,False,False,False,True,True
+213,7,"Lung nodule biopsy History of Present Illness: ___ man w/PMHx IVUD w/heroin, last used 1wk ago, now presenting with low back pain.",True,False,False,False,False,False,True,True,True
+254,44,"IVDA, last used heroin years ago.",True,False,False,False,False,False,True,True,True
+2506,125,Follow these tips when injecting drugs.,False,False,False,False,False,False,False,True,True
+281,126,Dose to be adjusted by level.,False,False,False,False,False,False,False,False,False
+206,12,"Per patient's companion at bedside, patient with history of abusing multiple substances although the patient denies taking any drugs this time including methamphetamine, heroin, cocaine, or as he calls it 'Coco.'""",False,False,False,False,False,False,False,True,True
+439,42,"Also has hx of cocaine use 5 x month in the past, but now uses rarely (last 3 weeks ago).",False,True,False,False,False,False,False,True,True
+79,31,<<NAME>>,False,False,False,False,False,False,False,False,False
+194,15,"Polysubstance abuse including alcohol, cocaine, benzodiazepines and heroin.",True,True,False,True,False,False,False,True,True
+461,28,Past Medical History: - Hepatitis C - Chronic low back pain - Polysubstance abuse - Asthma - Prior history of being stabbed in the chest requiring a sternotomy and open repair with a synthetic patch.,False,False,False,False,False,False,False,True,True
+461,96,"He presented with fevers, somnolence, and hypoxia in the setting of having taking at least cocaine, heroin, and Xanax prior to admission.",True,True,False,True,False,False,False,True,True
+203,7,"Major Surgical or Invasive Procedure: none History of Present Illness: Mr. ___ is a ___ year old man with a history of alcohol dependence, heroin dependence, benzodiazepine abuse, hepatitis C, psoriasis, and depression who presents intoxicated to the emergency department with depression.",True,False,False,True,False,False,False,True,True
+318,90,"# Hepatitis C: With liver nodule, last AFP 1.5 in ___ re-checked here and normal at 2.3. . # Polysubstance abuse (crack cocaine, heroin):",True,True,False,False,False,False,False,True,True
+302,131,Home Discharge Diagnosis: Aspiration Pneumonia Heroin overdose Discharge Condition: good Discharge Instructions:,True,False,False,False,False,False,False,True,True
+730,42,MCHC - 35. * RDW - 18. * [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+2503,106,#H/O IVDU: Sober x ___ years.,False,False,False,False,False,False,True,True,True
+291,28,"For opiate withdrawal, the patient was provided comfort medications (Bentyl 20mg po q6hprn, Robaxin 750mg po q6hprn, and Motrin 600mg po q8hprn) on an as needed basis.",False,False,False,False,False,False,False,False,False
+492,28,She has been using heroine for the past eight years.,True,False,False,False,False,False,False,True,True
+2511,119,"His Troponin was remarkably low at 0.02, so it was thought to be due to his injury +/- cocaine use (serum tox +).",False,True,False,False,False,False,False,True,True
+101,116,"BLOOD Calcium-8.5 Phos-2.9 Mg-1.5* Brief Hospital Course: ___ man with past medical history of opioid use and methamphetamine use, here with opioid withdrawal, and left forearm cellulitis associated with an injection site, with persistent swelling and tenderness.",False,False,True,False,False,False,True,True,True
+196,60,MJ use dis 6. cocaine use dis 7. migraine headaches 8. HCV,False,True,False,False,False,True,False,True,True
+732,226,Level of Consciousness: Lethargic but arousable.,False,False,False,False,False,False,False,False,False
+478,21,Past Medical History: Endocarditis IVDA Anxiety Depression Social History: ___ Family History:,False,False,False,False,False,False,True,True,True
+459,1,Name: ___ Unit No: ___ Admission Date: ___ Discharge Date: ___ Date of Birth: ___ Sex: F Service: MEDICINE Allergies:,False,False,False,False,False,False,False,False,False
+152,20,"Vitals on admission are: 119/74, 98, 19, 98% on RA.",False,False,False,False,False,False,True,True,True
+85,159,<<NAME>>,False,False,False,False,False,False,False,False,False
+180,267,Please follow - up with the methadone clinic that you have contact [ * * Name ( NI ) * * ].,False,False,False,False,False,False,False,False,False
+912,40,q. 6h.,False,False,False,False,False,False,False,False,False
+361,29,Consults: Toxicology -- initially recommended treat as TCA overdose: with bicarb and lytes monitoring.,False,False,False,False,False,False,False,True,True
+294,4,"___. Chief Complaint: referred in for tachycardia from PCPs office Major Surgical or Invasive Procedure: None History of Present Illness: ___ yo woman w/ anxiety and h/o IVDU, prior alcohol abuse, hep C (untreated) who is referred in from her PCPs office for tachycardia and feeling foggy.",False,False,False,False,False,False,True,True,True
+2580,203,HydrALAZINE 25 mg PO BID 22.,False,False,False,False,False,False,False,False,False
+641,76,Increased small left pleural effusion.. [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+252,202,Urine drug screen at the OSH showed cocaine however the patient denies using cocaine.,False,True,False,False,False,False,False,True,True
+2619,5,She describes waking up this morning and seeing about a 3cm x 5cm stain of bright red blood.,False,False,False,False,False,False,False,False,False
+175,133,"Reports very little consistency in the home, substance abuse, and arguments inappropriate for a young child to witness.",False,False,False,False,False,False,False,True,True
+267,159,"Axis I: Polysubstance use disorder (crystal meth/benzos/methamphetamines), substance-induced mood disorder, PTSD Axis II: Histrionic personality disorder Axis III:",False,False,True,True,False,False,False,True,True
+295,60,Cyanocobalamin 500 mcg PO DAILY 8. metHOTREXate sodium 22.5 mg oral 3X/WEEK 9. cyanocobalamin (vitamin B-12) 500 mcg oral DAILY,False,False,False,False,False,False,False,False,False
+2508,9,"Briefly, this is a ___ year old, single, employed ___ refugee man, with reported history of extensive trauma (tortured during imprisonment in ___ for 59 days), daily cannabis use, no formal psychiatric history or suicide attempts, who presented to ___ ED via EMS due to paranoia. .",False,False,False,False,False,True,False,True,True
+389,38,Drug abuser since age ___- heroin and cocaine (in a drug abuse program x 14 mo) Hospitalized ___ yrs ago for drug overdose ?,True,True,False,False,False,False,False,True,True
+651,163,"Tab, Sust Release Osmotic Push PO qd ( ):",False,False,False,False,False,False,False,False,False
+24,17,His serum tox in the ED was negative with a urine tox positive for cocaine and opiates.,False,True,False,False,False,False,False,True,True
+294,6,She reported that she ran into an old friend and injected herself with IV methamphetamine.,False,False,True,False,False,False,True,True,True
+222,113,Brief Hospital Course: ___ M with hx IVDU (fentanyl) who presented with lumbar epidural abscess.,False,False,False,False,False,False,True,True,True
+130,7,"Patient states that she was raped today, and also reports having suicidal thoughts with plan, in setting of medication nonadherence and substance use. .",False,False,False,False,False,False,False,True,True
+214,24,HYPOCHROM-NORMAL,False,False,False,False,False,False,False,False,False
+661,24,"after 1. flights of stairs, O2 sat - % with no CP, some SOB, HR to 110s.",False,False,False,False,False,False,False,False,False
+2531,114,#Hx of IV drug abuse:,False,False,False,False,False,False,True,True,True
+272,18,2. History of IV drug use.,False,False,False,False,False,False,True,True,True
+464,8,Transferred from ___ to ___ because they did not have an echo.,False,False,False,False,False,False,False,False,False
+2517,64,"No known history of DT's or withdrawal seizures - Illicits: remote history of illicit drug use including cocaine, heroin.",True,True,False,False,False,False,False,True,True
+200,19,"She has a history of heroin use ___ years, but denies any current drug use.",True,False,False,False,False,False,False,True,True
+518,156,Multiple conversations with family indicate the need for GOC discussion prior to surgery or biopsy for skull mass.,False,False,False,False,False,False,False,False,False
+643,131,3. Interval resolution of left pleural effusion and improvement in aeration of the left lower lobe.,False,False,False,False,False,False,False,False,False
+989,48,"Neurological alert, not oriented, moving all extremities, but not following commands.",False,False,False,False,False,False,False,False,False
+345,272,There was also no intraparenchymal hemorrhage.,False,False,False,False,False,False,False,False,False
+886,37,Denies rash.,False,False,False,False,False,False,False,False,False
+817,120,Primary:,False,False,False,False,False,False,False,False,False
+856,76,There is partial mitral anteriorleaflet flail.,False,False,False,False,False,False,False,False,False
+6,332,"This visit is important in light of his chronic back pain and peripheral neuropathy, which the patient states have been a factor in his persistent drug use.",False,False,False,False,False,False,False,True,True
+134,123,"Fluconazole administration was done with consideration to his elevated LFTs, which had not been progressive during his stay.",False,False,False,False,False,False,False,False,False
+363,53,"20 pack year history History of heroin, crystal meth psychiatrically hospitalized at ___ in ___, HRI ___ -h/o 5 suicide attempts -h/o Polysubstance abuse Per ___ admission note:",True,False,True,False,False,False,False,True,True
+710,44,DESCRIPTION OF PROCEDURE:,False,False,False,False,False,False,False,False,False
+2506,8,"___ terms of his heroin use, he is not sure what type he uses and describes it as brown/beige rock that he dissolves ___ tap water.",True,False,False,False,False,False,False,True,True
+236,198,IVDU - Continue methadone.,False,False,False,False,False,False,True,True,True
+825,45,CT CHEST W/CONTRAST ___ 11:50 AM,False,False,False,False,False,False,False,False,False
+81,142,"It was explained to the patient several times that using cocaine or other illicit drugs could have serious consequences, especially because of his thyroid condition.",False,False,False,False,False,False,False,True,True
+593,73,"Acute cholecystitis, bile duct obstruction",False,False,False,False,False,False,False,False,False
+793,143,<<NAME>>,False,False,False,False,False,False,False,False,False
+917,126,"During her stay in the MICU, the patient developed bilateral bibasilar pneumonia.",False,False,False,False,False,False,False,False,False
+598,22,"Then, at about 6pm, he noted the sudden onset of mental fog, as if he had just taken strong cold medicine.",False,False,False,False,False,False,False,False,False
+169,5,"History of Present Illness: ___ w/ hx of IVDU previously sober but w/ recent relapse in the last year who was brought to the ED for chest pain, tachycardia and psychosis.",False,False,False,False,False,False,True,True,True
+769,47,She has family in the area including two daughters and two grandson.,False,False,False,False,False,False,False,False,False
+2583,5,"This is a ___ with PMH of IVDU, Hepatitis C, prior endocarditis, who is transferred from ___ for evaluation by Hand Surgery after presenting there for left hand abscess and subsequently found to have a left upper extremity DVT.",False,False,False,False,False,False,True,True,True
+34,57,[ * * Name ( NI ) * * ] has a history of intravenous cocaine use many years ago.,False,True,False,False,False,False,True,True,True
+2592,87,Creon ___ CAP PO TID W/MEALS 4. Methadone 20 mg PO BID and 30 mg QHS 5.,False,False,False,False,False,False,False,False,False
+693,74,He subsequently was taken to the OR with the Plastic Surgery service for repair of his nasal fractures.,False,False,False,False,False,False,False,False,False
+401,6,"Pt is a ___ y/o Hispanic woman with a h/o of MDD, borderline PD, bipolar d/o vs. schizoaffective d/o and opioid abuse who was brought in by ambulance called by a friend because the pt was experiencing SI and hearing voices telling her to kill herself.",False,False,False,False,False,False,False,True,True
+2599,25,"Started on medications ___ with efavirenz/abacavir/d4T, took for nearly ___ years before she relapsed recently into IVDU in ___ and went off medications until ___ when she again started that regimen, but reportedly failed to suppress, at which time she was switched to her current regimen.",False,False,False,False,False,False,True,True,True
+492,6,"The patient originally denied using heroine for the past two months, but upon further review, the amended history she admitted to is using heroine for the past few day prior to admission, intermittently forgetting to taker her Lantus Insulin and then having the onset of abdominal pain, nausea, and vomiting for hours, and then presented to the Emergency Department.",True,False,False,False,False,False,False,True,True
+335,117,[ * * First Name8 ( NamePattern2 ) * * ] [ * * Last Name ( NamePattern1 ) * * ] on Thursday the [ * * - * * ] at 2: p. m.,False,False,False,False,False,False,False,False,False
+408,104,We used motivational interviewing RE: the pt's substance use disorders.,False,False,False,False,False,False,False,True,True
+307,32,REVIEW OF SYSTEMS:,False,False,False,False,False,False,False,False,False
+463,211,RX *pantoprazole [Protonix] 40 mg 1 tablet(s) by mouth once a day Disp #*5 Tablet Refills:*0,False,False,False,False,False,False,False,False,False
+886,66,<<NAME>>,False,False,False,False,False,False,False,False,False
+146,32,Mucous membranes moist.,False,False,False,False,False,False,False,False,False
+2543,5,He reports injecting heroin into that arm (left medial forearm) 7 days ago.,True,False,False,False,False,False,True,True,True
+2537,89,He was declined by NEOB.,False,False,False,False,False,False,False,False,False
+708,33,d.,False,False,False,False,False,False,False,False,False
+90,98,The cause was unlikely ACS and more likely myocarditis / pericarditis.,False,False,False,False,False,False,False,False,False
+756,256,CHEST ( PORTABLE AP ) [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+893,37,<<NAME>>,False,False,False,False,False,False,False,False,False
+2514,77,Disk with Device Sig: One (1) Disk with Device Inhalation BID (2 times a day).,False,False,False,False,False,False,False,False,False
+376,40,# Acute respiratory failure: Due to drug overdose.,False,False,False,False,False,False,False,True,True
+142,5,Discharge Date: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+352,65,URINE bnzodzpn-POS barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-POS,False,False,False,False,False,False,False,True,True
+46,225,Date / Time: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+315,69,at its lowest.,False,False,False,False,False,False,False,False,False
+455,97,His cryptococcal antigen was negative.,False,False,False,False,False,False,False,False,False
+265,67,"# Chronic Pain: - Continue home gabapentin # Opiate Abuse: - Continue Methadone maintenance, given letter regarding last dose to bring to her clinic.",False,False,False,False,False,False,False,True,True
+2586,8,"M with depression and anxiety, h/o IVDU, who presents with R wrist pain, swelling, warmth x 2 days that has extended to his R thumb.",False,False,False,False,False,False,True,True,True
+371,38,This represents a poor exercise tolerance.,False,False,False,False,False,False,False,False,False
+583,57,"Patient admitted to using intranasal crushed medications with girlfriend and her mother, and using razors at his girlfriends house, her brother has hepatitis C. Of note, tox screen (serum and urine) with expanded opiate panal negative at ___ ___, though it is not clear why this was obtained, tox screen (no expanded opiate panel) was also negative this admission.",False,False,False,False,False,False,False,True,True
+488,11,"Pt reports increasing IV heroin and oxycodone recently, despite participation in a drug treatment program 2 weeks ago ___).",True,False,False,False,False,False,True,True,True
+481,6,He has a long history of substance abuse and has been through 15 detox admissions the last of which was 1 month ago at ___.,False,False,False,False,False,False,False,True,True
+279,76,"Axis II: deferred Axis III: none Axis IV: financial stress, social isolation, peer affiliations limited to substance abuse Axis V: GAF 70",False,False,False,False,False,False,False,True,True
+609,64,DISCHARGE DIAGNOSES: 1. Heroin overdose.,True,False,False,False,False,False,False,True,True
+349,20,MedHx: - Chronic HepC - Migraines - PTSD - h/o IVDU - Anemia - Bipolar Disorder,False,False,False,False,False,False,True,True,True
+459,5,History of Present Illness: ___ with etoh and heroin use with withdrawal seizures p/w hand abscess.,True,False,False,False,False,False,False,True,True
+39,285,Meds @ home:,False,False,False,False,False,False,False,False,False
+2552,96,Discharge Disposition: Home With Service Facility: ___ ___: left upper extremity abscess IV drug use Discharge Condition: Mental Status: Clear and coherent.,False,False,False,False,False,False,True,True,True
+496,27,"V, VII: Facial strength and sensation intact and symmetric.",False,False,False,False,False,False,False,False,False
+166,62,"Abdominal examination, soft with mild right upper quadrant and mid epigastric tenderness to palpation.",False,False,False,False,False,False,False,False,False
+167,93,HEROIN ADDICTION: The patient had used intravenous heroin for the past year.,True,False,False,False,False,False,True,True,True
+36,136,"His platelet counts were initially unresponsive to the platelet transfusion, corticosteroids, and IVIG.",False,False,False,False,False,False,False,False,False
+474,25,"SOCIAL HISTORY: History of intravenous heroin use a few years ago, cigarettes one pack per day, one case of beer per day.",True,False,False,False,False,False,True,True,True
+981,89,"There was a question whether there was an ischemic episode, so an magnetic resonance imaging scan / magnetic resonance angiography of the head was performed, which showed probable chronic microvascular infarction of the white matter of both cerebral hemispheres.",False,False,False,False,False,False,False,False,False
+115,38,"Pt has h/o alcohol and IV heroin use, and was withdrawing from narcotics while on the floor.",True,False,False,False,False,False,True,True,True
+202,16,Past Medical History: Hepatitis C Polysubstance Abuse Social History: ___ Family History:,False,False,False,False,False,False,False,True,True
+820,119,"6. Pancreatitis: Admitted with elevated pancreatic enzymes, likely secondary to EtOH.",False,False,False,False,False,False,False,False,False
+962,73,<<NAME>>,False,False,False,False,False,False,False,False,False
+906,146,12: JOB #: [ * * Job Number * * ],False,False,False,False,False,False,False,False,False
+895,217,Followup Instructions: ___,False,False,False,False,False,False,False,False,False
+135,133,# IVDU: Patient with active heroin use prior to admission.,True,False,False,False,False,False,True,True,True
+196,47,URINE bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-POS* amphetmn-NEG oxycodn-NEG mthdone-NEG ___ 09:23PM,False,True,False,False,False,False,False,True,True
+474,79,Mg-1.4* Brief Hospital Course: ___ female PMHx suspected substance abuse presenting w/acute liver injury and acute hepatic injury.,False,False,False,False,False,False,False,True,True
+349,12,"For her history of IVDU, she has been clean throughout this pregnancy, with most recent negative Utox on ___.",False,False,False,False,False,False,True,False,True
+802,38,"Apparently has had psychiatric evaluation in ___ in the past to r/o eating disorder, but if TPN were to be considered at ___, would likely need repeat psychiatry evalution here, in collaboration with nutrition/TPN eval.",False,False,False,False,False,False,False,False,False
+222,108,18: T: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+245,4,___. Chief Complaint: Unresponsive/Cardiac arrest Major Surgical or Invasive Procedure: None History of Present Illness:,False,False,False,False,False,False,False,False,False
+112,197,Please empty the abd drain daily and record the ouput.,False,False,False,False,False,False,False,False,False
+345,259,"Most likely etiology was thought to be due to recent IVDU, though history of last use is somewhat questionable.",False,False,False,False,False,False,True,True,True
+344,9,He presented to ___ on ___ with suicidal ideations and was treated for heroine/cocaine withdrawal and admitted to a dual diagnosis bed at ___.,True,True,False,False,False,False,False,True,True
+779,20,Supple Pulmonary: non labored Abdomen: ND,False,False,False,False,False,False,False,False,False
+808,12,MEDICATIONS,False,False,False,False,False,False,False,False,False
+674,84,has had skin breakdown in his right arm.,False,False,False,False,False,False,False,False,False
+264,208,#) Alcohol and Opiate Disorders Mr.,False,False,False,False,False,False,False,True,True
+429,387,# EPIDURAL/PREVERTEBRAL,False,False,False,False,False,False,False,False,False
+232,11,"She also smoked and possibly injected what she thinks was crack cocaine mixed with lemon juice, but she is unsure.",False,True,False,False,False,False,True,True,True
+2528,18,Past Medical History: - Mult admission for malignant HTN after drug abuse and not taking medications.,False,False,False,False,False,False,False,True,True
+289,15,"On exam he was very lethargic, but awoke acknowledged using ""drugs"".",False,False,False,False,False,False,False,True,True
+795,147,Hydrochlorothiazide 50 mg PO DAILY 5.,False,False,False,False,False,False,False,False,False
+800,16,Transferred here for further evaluation.,False,False,False,False,False,False,False,False,False
+337,95,He was primarily interested in suboxone therapy as a modality of avoiding heroin in the future.,True,False,False,False,False,False,False,True,True
+172,102,Alert and interactive.,False,False,False,False,False,False,False,False,False
+2545,18,HIV Chronic hepatitis C Opioid dependence Anxiety Tobacco dependence Likely COPD but hasn't yet had PFTs,False,False,False,False,False,False,False,True,True
+641,32,No kidney disease Physical Exam: ( on transfer to floor ),False,False,False,False,False,False,False,False,False
+163,30,"Past Medical History: - IVDU; history of heroin and cocaine dependence; Suboxone started on ___ - hepatitis C; genotype ___ s/p interferon/ribavirin; reinfected with genotype 3a, not yet treated; fibroscan 4.9 kPa (F0-1) on ___, baseline viral load 459,000 IU/mL on ___ - History of primary syphilis - migraines (seen by pain clinic) - foot pain ___ clubfeet - arthralgias (chronic, in ankles) - persistent needle in the R neck since ___ - seizure in the setting of cocaine use ___ - lunotriquetral ligament reconstruction ___ Social History: ___ Family History:",True,True,False,False,False,False,True,True,True
+187,9,Recently started naltrexone for hx opiate abuse.,False,False,False,False,False,False,False,True,True
+455,8,This is a ___ year old male with history of DM; admit from ED following heroin overdose.,True,False,False,False,False,False,False,True,True
+288,419,"This bacteria is called ""Staph aureus,"" and you most likely got this infection from using IV drugs.",False,False,False,False,False,False,True,True,True
+2524,96,Home Discharge Diagnosis: Primary Diagnosis - Acute Renal Failure - Substance abuse,False,False,False,False,False,False,False,True,True
+2550,32,"Pt smokes ___ ppd (not in last week given pneumonia), denies alcohol use in pregnancy, reports hx of opioid abuse including Percocet (last use 4 mo ago) and sniffing MS ___ and heroin.",True,False,False,False,False,False,False,True,True
+441,91,"Broad spectrum antibiotics were administered (vancomycin ___, Unasyn ___, cefepime ___, metronidazole ___, ceftriaxone ___.",False,False,False,False,False,False,False,False,False
+102,29,"Per her daughter, she has a history of taking benzodiazepines and oxycodone together.",False,False,False,True,True,False,False,True,True
+477,234,Patient was homeless on admission and had history of relapsed drug use leading to the endocarditis.,False,False,False,False,False,False,False,True,True
+317,98,3. Colace mg p. o.,False,False,False,False,False,False,False,False,False
+300,8,Hep B ___ requiring hospitalization Neurosyphilis- s/p IV PCN therapy in ___ History oral/ genital HSV cervical arthritis- gets steroid injections h/o IVDU and narcotic abuse and alcohol abuse.,False,False,False,False,False,False,True,True,True
+455,28,"-Anxiety -Heroin abuse - reports snorting only; no IVDU -Obstructive sleep apnea (OSA) - has CPAP at home which uses rarely, only when ""short of breath"" -Asthma Social History: ___ Family History: multiple family members with DM.",True,False,False,False,False,False,False,True,True
+616,133,Other sources considered included line infections ( Right IJ recently replaced in same site ) or C. diff given prolonged ABX course..,False,False,False,False,False,False,False,False,False
+204,57,9. * Hct - 27. * MCV - MCH - 28.,False,False,False,False,False,False,False,False,False
+383,17,She was hospital day in [ * * Month ( only ) * * ] at [ * * Hospital6 * * ] with congestive heart failure and acute renal failure.,False,False,False,False,False,False,False,False,False
+2573,48,Had limited insight as to hx of alcohol abuse and relationship with opiate use.,False,False,False,False,False,False,False,True,True
+434,104,The enzymes have subsequently decreased.,False,False,False,False,False,False,False,False,False
+453,149,lesions are visible to the posterior circulation with involvement of the right thalamus and left cerebellum.,False,False,False,False,False,False,False,False,False
+989,14,4. Hypertension.,False,False,False,False,False,False,False,False,False
+432,135,His liver chemistry tests stabilized on ___ and ultimately improved by discharge.,False,False,False,False,False,False,False,False,False
+234,91,Make an appointment with Dr. [ * * Last Name ( STitle ) * * ] for - weeks.,False,False,False,False,False,False,False,False,False
+582,33,Neck:,False,False,False,False,False,False,False,False,False
+430,31,"Urine screen: Positive for barbs, opiates, cocaine; negative for benzos, amphetamine",False,True,False,False,False,False,False,True,True
+978,7,This dictation will cover to [ * * <<DATE>> * * ].,False,False,False,False,False,False,False,False,False
+417,109,His weight preoperatively was kilos.,False,False,False,False,False,False,False,False,False
+138,237,He reported taking extra alprazolam on the day he was found somnolent.,False,False,False,True,False,False,False,True,True
+431,19,She is now transferred on HD2 to the floor for workup of liver disease and question of DIC.,False,False,False,False,False,False,False,False,False
+889,163,Home With <<NAME>>,False,False,False,False,False,False,False,False,False
+173,187,"Afebrile, vital signs stable.",False,False,False,False,False,False,False,False,False
+266,20,His primary problems are likely character disorder + substance abuse.,False,False,False,False,False,False,False,True,True
+2616,47,He reported continued substance use and hx of withdrawal with seizures.,False,False,False,False,False,False,False,True,True
+2589,18,"She does not recall follow-up with a neurologist, and is unable to recall her typical seizure frequency or prior admissions for seizures.",False,False,False,False,False,False,False,False,False
+2639,129,"The patient was neurologically intact and hemodynamically stable, weaned from inotropic and vasopressor support.",False,False,False,False,False,False,False,False,False
+407,124,Community Acquired Pneumonia Opioid Use Disorder and Withdrawal,False,False,False,False,False,False,False,True,True
+2618,7,He reports a remote history of IVDU and opioid addiction for which he has been maintained on methadone (unknown provider).,False,False,False,False,False,False,True,True,True
+885,151,Vascular surgery was consulted who recommended conservative management with serial ultrasounds.,False,False,False,False,False,False,False,False,False
+207,149,Social Work was consulted when she was extubated at ___ and she was referred to ___ intense outpatient program to aid with sobriety.,False,False,False,False,False,False,False,True,True
+104,210,"Stroke education (personal modifiable risk factors, how to activate EMS for stroke, stroke warning signs and symptoms, prescribed medications, need for followup) given (verbally or written)?",False,False,False,False,False,False,False,False,False
+466,28,"Past Medical History: -GERD -CAD -CABG ___ yrs ago -DM2 -Chronic hep C, genotype 2b likely acquired through IVDU ___ yrs prior, on interferon/ribaviron starting ___, on neupogen for bone marrow toxicity, course c/b hepatic encephalopathy.",False,False,False,False,False,False,True,True,True
+752,37,"1. Left lower lung opacity most likely represent atelectasis; however, aspiration cannot be excluded.",False,False,False,False,False,False,False,False,False
+388,37,Im ___ AbsNeut-3.30 AbsLymp-2.42 AbsMono-0.59 AbsEos-0.38 AbsBaso-0.05 ___ 07:01AM BLOOD Glucose-98 UreaN-16 Creat-0.7 Na-140 K-4.7 Cl-102 HCO3-24 AnGap-14 ___ 09:15AM BLOOD ALT-26 AST-20 AlkPhos-56 TotBili-0.4 ___ 07:01AM BLOOD Calcium-8.8 Phos-3.9 Mg-2.3 Brief Hospital Course: Mr. ___ is a ___ male with a past medical history of IVDU and HCV who presented with SSTI with abscess.,False,False,False,False,False,False,True,True,True
+130,117,"Substance use disorder: with patient reporting abusing opiates, alcohol, cocaine, cannabis in the past - No signs or symptoms of withdrawal on this examination and patient was reluctant to engage in substance abuse counseling during this admission - Patient was advised that she had lost all tolerance to substances and that she was at high risk for overdose should she relapse .",False,True,False,False,False,True,False,True,True
+276,7,Surgical or Invasive Procedure: Cardiac Catheterization TEE Cardioversion Pacemaker / Defibrillator Placement History of Present Illness:,False,False,False,False,False,False,False,False,False
+242,46,Pelvis was stable.,False,False,False,False,False,False,False,False,False
+168,14,"___: IV drug abuse, hepatitis C, liver cancer PSH: liver biopsy",False,False,False,False,False,False,True,True,True
+412,17,"Psychiatry was consulted, who noted that his mental status was improving, and that he has been feeling depressed and hopeless with escalating substance use and recent overdoses with intent to end his life.",False,False,False,False,False,False,False,True,True
+428,155,Discharge Disposition: Extended Care Facility: ___ Discharge Diagnosis: # Right hip pain # Right hip fluid collection # History of R hip hemiarthroplasty complicated by infection # Suicidal ideation # Depression #Positive Toxicology Screen,False,False,False,False,False,False,False,True,True
+2582,40,Former heroin user. dad - deceased.,True,False,False,False,False,False,False,False,True
+481,24,Status post cholecystectomy.,False,False,False,False,False,False,False,False,False
+504,12,He reports some fatigue with low grade fevers.,False,False,False,False,False,False,False,False,False
+280,14,He vomited once the day prior to admission.,False,False,False,False,False,False,False,False,False
+264,204,3. SUBSTANCE USE DISORDERS: #) Nicotine,False,False,False,False,False,False,False,True,True
+367,112,"Bite marks noted on PICC line near cap.""",False,False,False,False,False,False,False,False,False
+734,36,"DTRs 1+ and equal, toes down.",False,False,False,False,False,False,False,False,False
+943,236,Diltiazem mg PO QAM,False,False,False,False,False,False,False,False,False
+537,65,Sonography is recommended to assess whether this is cystic.,False,False,False,False,False,False,False,False,False
+195,39,"She denies any tobacco, alcohol or drug use.",False,False,False,False,False,False,False,False,False
+886,64,was given Adenosine without effect.,False,False,False,False,False,False,False,False,False
+43,117,<<NAME>>,False,False,False,False,False,False,False,False,False
+289,105,[ * * Telephone / Fax ( ) * * ]..,False,False,False,False,False,False,False,False,False
+44,33,Cardiovascular examination revealed a regular rate and rhythm.,False,False,False,False,False,False,False,False,False
+30,241,She required units pRBCs post pericardiocentesis / window and Hct was then stable afterwards.,False,False,False,False,False,False,False,False,False
+886,40,His extremities have no edema.,False,False,False,False,False,False,False,False,False
+876,30,SOCIAL HISTORY: The patient has been clean from her IV drug abuse for approximately years and is currently on methadone maintenance.,False,False,False,False,False,False,True,True,True
+2639,25,"Past Medical History: Chronic pain Hepatitis C Depression Lichen planus Tobacco use disorder Normocytic anemia Seasonal allergic rhinitis Recurrent herpes labialis Insomnia Erectile dysfunction Heroin addiction, long-term remission Urinary hesitancy Anisocoria Chronic post-traumatic stress disorder Bilateral testicular atrophy Benzodiazepine abuse Social History: ___ Family History: father with CABG in his ___, mother with history of depression.",True,False,False,True,False,False,False,True,True
+365,181,Care Facility: ___ Discharge Diagnosis: MSSA endocarditis complicated by enterococcal endocarditis s/p AVR/MVR/TV repair/PFO closure aortic valve regurgitation mitral valve regurgitation seizures Hepatitis C IVDU depression anemia,False,False,False,False,False,False,True,True,True
+83,6,Surgical or Invasive Procedure: s / p TIPs [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+474,20,4. History of intravenous drug abuse; 5.,False,False,False,False,False,False,True,True,True
+788,153,Discharge Disposition: Home With Service Facility: ___ Discharge Diagnosis: PRIMARY: Tracheal stenosis Hypoxia,False,False,False,False,False,False,False,False,False
+2503,107,He is no longer enrolled at the ___ clinic and acquires methadone on the stree.,False,False,False,False,False,False,False,True,True
+669,144,#Pulmonary:,False,False,False,False,False,False,False,False,False
+606,33,RESP: CTAB.,False,False,False,False,False,False,False,False,False
+775,132,"Patient otherwise without dysuria, hematuria, or suprapubic pain.",False,False,False,False,False,False,False,False,False
+372,89,He will be given a 2 weeks supply and refills will be given during follow-up visits.,False,False,False,False,False,False,False,False,False
+953,69,"year history of significant IV heroin use, off while incarcerated.",True,False,False,False,False,False,True,True,True
+733,147,You were originally admitted due to persistent vomiting and with abnormal blood work.,False,False,False,False,False,False,False,False,False
+2636,13,"Past Medical History: IVDU on suboxone Social History: ___ Family History: N/c Physical Exam: AVSS NAD, A&Ox3",False,False,False,False,False,False,True,False,True
+84,32,Chest: Clear to auscultation bilaterally.,False,False,False,False,False,False,False,False,False
+303,176,"Upon recovery of mental status, patient began reporting upper abdominal pain, sharp, difficult to further characterize.",False,False,False,False,False,False,False,False,False
+224,64,#NAME?,False,False,False,False,False,False,False,False,False
+54,29,"Cardiac enzymes were cycled and she was found to have a troponin leak to 1. 8, which decreased with subsequent tests.",False,False,False,False,False,False,False,False,False
+826,99,<<NAME>>,False,False,False,False,False,False,False,False,False
+2552,64,"Brief Hospital Course: ___ with Hx IVDU who presents with infection of his left arm, found to have deep tissue abscess, s/p I&D.",False,False,False,False,False,False,True,True,True
+442,68,"Brief Hospital Course: Ms. ___ is a ___ F with IVDU presenting with fever, jaundice and abdominal pain with presentation concerning for acute hepatitis and opioid withdrawal.",False,False,False,False,False,False,True,True,True
+447,8,"History of Present Illness: Eu Critical, ___ is a ___ yo man w/ unknown PMH, polysubstance use (ETOH, prior IVDU, heroin) who presents as transfer from ___ after he was found confused possibly aphasic, not moving RUE, with c/f stroke.",True,False,False,False,False,False,True,True,True
+2595,5,Major Surgical or Invasive Procedure: - Incision and drainage of right forearm abscess ___ - Intubation,False,False,False,False,False,False,False,False,False
+2570,208,"DISCHARGE RESULTS ___ ESR 9 ___ 05:18AM BLOOD ___ ___ 05:18AM BLOOD ___ ___ ___ 05:18AM BLOOD ___ ___ ___ 05:18AM BLOOD ___ ___ Plt ___ Brief Hospital Course: ___ w OUD/IVDU p/w sepsis, hand cellulitis/abscess and empyema.",False,False,False,False,False,False,True,True,True
+129,263,It was possible that her renal failure occurred in conjunction with liver failure and / or was associated with cocaine - induced vasoconstriction..,False,True,False,False,False,False,False,True,True
+167,6,Date of Birth: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+474,69,q. day 5. Docusate mg p. o.,False,False,False,False,False,False,False,False,False
+183,60,Pt. reported adequate pain control and was able to cough and deep breath without splinting.,False,False,False,False,False,False,False,False,False
+57,287,Phone: [ * * Telephone / Fax ( ) * * ],False,False,False,False,False,False,False,False,False
+353,11,with a heart rate of and a blood pressure of / with increasing confusion.,False,False,False,False,False,False,False,False,False
+975,30,"has a history of polysubstance abuse, abusing both intravenous and intranasal heroin, as well as cocaine.",True,True,False,False,False,False,True,True,True
+398,3,"Chief Complaint: ""Suicidal"" Major Surgical or Invasive Procedure: none",False,False,False,False,False,False,False,False,False
+461,5,"Per report, he took ten 1 mg pills of Xanax at 4pm on the day prior to admission and 2 1mg Xanax tablets again on the day of admission, 3 hours prior to presentation.",False,False,False,True,False,False,False,True,True
+316,8,"The patient's other medical history is significant for chronic atrial fibrillation on Coumadin, hypertension, chronic obstructive pulmonary disease, Hepatitis C and prostate cancer.",False,False,False,False,False,False,False,False,False
+81,141,It was strongly stressed to the patient that it is very important that he avoids use of cocaine or other illicit drugs.,False,True,False,False,False,False,False,True,True
+42,39,"No EtOH, former IV drug user ( denies ).",False,False,False,False,False,False,True,True,True
+2549,94,". # ETOH/polysubstance dependance: Patient was monitored for withdrawal, was put on CIWA scale and was given thiamine, folic acid and MVI.",False,False,False,False,False,False,False,True,True
+314,6,"This is a ___ yo man with a history of polysubstance abuse (crystal methamphetamine use, benzodiazepine use, opiate use) who self-presented to ___ ED yesterday evening with SI and plan to shoot himself in the head in setting of being UTox positive for amphetamines, benzodiazepines and opiates.",False,False,True,True,False,False,False,True,True
+360,66,Urine toxicology screen was positive for benzodiazepines.,False,False,False,False,False,False,False,True,True
+902,2,Discharge Date: [ * * <<DATE>> * * ],False,False,False,False,False,False,False,False,False
+2608,12,"She tried to stop cold ___ 2 days ago and began having withdrawal symptoms, then self-treated her withdrawal with 300mg of street heroin.",True,False,False,False,False,False,False,True,True
+341,79,Source:,False,False,False,False,False,False,False,False,False
+416,27,"Brief Hospital Course: ___ yo M with history of IVDU, HCV here following failed sedation for ERCP to evaluate ampullary mass.",False,False,False,False,False,False,True,True,True
+179,6,"According to patient, she used heroine along with 2 beers and 1 ""shot"" of rum earlier yesterday and was then found unresponsive by family members who then called EMS.",True,False,False,False,False,False,False,True,True
+480,172,"However, patient's CBC, BMP, TSH, LFTs, non con head CT were all unremarkable aside from Utox results.",False,False,False,False,False,False,False,True,True
+752,33,Pertinent Results: ___ 12:27AM BLOOD WBC-11.8* RBC-3.89* Hgb-12.0 Hct-38.3,False,False,False,False,False,False,False,False,False
+442,21,"""Feels stupid"" for having done heroin earlier that day, and multiple times the previous days.",True,False,False,False,False,False,False,True,True
+94,27,10. Osteoporosis.,False,False,False,False,False,False,False,False,False
+615,34,"she had no further ICU needs, she was transferred to the floor for management by the medicine team.",False,False,False,False,False,False,False,False,False
+320,49,He met with SW here regarding IVDU and relapse of Heroin use.,True,False,False,False,False,False,True,True,True
+676,104,Hypercarbic respiratory suppression Heroin overdose EtOH abuse Discharge Condition:,True,False,False,False,False,False,False,True,True
+581,42,Catheter site appears c/d/I.,False,False,False,False,False,False,False,False,False
+736,9,Surgical or Invasive Procedure: EGD Dobhoff <<NAME>> - Pyloric Feeding Tube History of Present Illness:,False,False,False,False,False,False,False,False,False
+298,32,Depression Alcohol Abuse Drug abuse (IVDU and cocaine),False,True,False,False,False,False,True,True,True
+793,135,Good luck!,False,False,False,False,False,False,False,False,False
+66,68,Na - K -,False,False,False,False,False,False,False,False,False
+720,46,"Cervical radiculitis Hepatitis C Tobacco abuse IVDU, previously on methadone maintenance.",False,False,False,False,False,False,True,True,True
+21,20,Remote Hx,False,False,False,False,False,False,True,False,True
+362,64,"The patient has ___ hepatitis C contracted from IV drug use, but no active issues arose during his hospitalization.",False,False,False,False,False,False,True,True,True
+53,40,"7. Polysubstance abuse including alcohol, crack cocaine, and heroin.",True,True,False,False,False,False,False,True,True
+466,62,had an intact well - healed surgical scar at the right posterior thorax.,False,False,False,False,False,False,False,False,False
+419,73,"He had mild opiate withdrawal symptoms including diaphoresis and anxiety, treated symptomatically with clonidine.",False,False,False,False,False,False,False,True,True
+2529,81,"Ab: negative HCV Ab: positive HCV viral load: 48,800 IU/mL Brief Hospital Course: ___ year old male with history of IVDU presents with MRSA bacteremia, left thigh abscess, left hip septic srthritis, and left femur osteomyelitis.",False,False,False,False,False,False,True,True,True
+2570,7,"Last use ___, using heroin, clean needles, sometimes reuses her own, bottled water, never licks needles.",True,False,False,False,False,False,True,True,True
+53,139,2. Rhabdomyolysis ( induced by cocaine ).,False,True,False,False,False,False,False,True,True
+245,70,URINE bnzodzpn-POS* barbitrt-NEG opiates-NEG cocaine-POS* amphetmn-NEG mthdone-NEG ___ 12:30AM ASA-NEG ___ ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG ___ 03:06AM ALT(SGPT)-623* AST(SGOT)-2944* LD(LDH)-2318* CK(CPK)-4740* ALK PHOS-251* TOT BILI-1.1 ___ 03:06AM,False,True,False,True,False,False,False,True,True
+166,108,It noted soft tissue swelling in the posterior suboccipital soft tissues and minimal prevertebral soft tissue increased signal could be related to trauma.,False,False,False,False,False,False,False,False,False
+615,64,0,False,False,False,False,False,False,False,False,False
+389,12,m. because she was sleepy.,False,False,False,False,False,False,False,False,False
+191,211,"ANXIETY/SUBSTANCE ABUSE - Patient would likely benefit from SSRI given frequent complaints of anxiety - Given high complexity situation with recent detox and continued recovery, he would likely benefit the most from psychiatric provider that provides dual diagnosis services",False,False,False,False,False,False,False,True,True
+742,140,Please continue prenatal vitamins as prescribed by you obstetrician. . .,False,False,False,False,False,False,False,False,False
+115,4,Chief Complaint: back pain and yellow eyes Major Surgical or Invasive Procedure: none History of Present Illness: ___ yo M w/h/o IVDU and alcohol abuse transferred from ___ ___ with acute hepatitis.,False,False,False,False,False,False,True,True,True
+261,103,3. Mucositis - Ulcers were noted over his lips at admission with progressive swelling.,False,False,False,False,False,False,False,False,False
+867,53,"Dear Ms. ___,",False,False,False,False,False,False,False,False,False
+694,160,Discharge Instructions:,False,False,False,False,False,False,False,False,False
+62,200,11. Lamivudine mg Tablet Sig: One ( ) Tablet PO once a day.,False,False,False,False,False,False,False,False,False
+148,81,His UDS was positive for Opiates and Oxycodone.,False,False,False,False,True,False,False,True,True
+2550,29,PMH: - Hepatitis C - hx of opioid abuse on methadone - behavior health hx,False,False,False,False,False,False,False,True,True
+374,121,Secondary Diagnosis: h/o polysubstance abuse,False,False,False,False,False,False,False,True,True
+159,232,Venlafaxine XR 150 mg PO DAILY 3.,False,False,False,False,False,False,False,False,False
+198,35,<<NAME>>,False,False,False,False,False,False,False,False,False
+455,17,Denies current of past IVDU - only snorting heroin.,True,False,False,False,False,False,False,True,True
+691,63,3. Similar subarachnoid and subdural blood.,False,False,False,False,False,False,False,False,False
+724,52,"TIPS was performed, although complicated by intraperitoneal bleeding.",False,False,False,False,False,False,False,False,False
+585,54,"Brief Hospital Course: ___ with medical history of hepatitis C, cocaine abuse who presents from home with several days of monoarticular joint pain and swelling.",False,True,False,False,False,False,False,True,True
+338,78,2. For Mobitz,False,False,False,False,False,False,False,False,False
+439,40,"Used IV heavily until age ___, when she enrolled at Habit Co-op.",False,False,False,False,False,False,True,False,True
+110,26,"Smokes about cigarettes per day, former drug use.",False,False,False,False,False,False,False,True,True
+431,216,Followup Instructions: ___,False,False,False,False,False,False,False,False,False
+509,157,"Following discontinuation of TF on ___, patient reporting that abdominal pain and nausea significantly improved to baseline level.",False,False,False,False,False,False,False,False,False
+836,32,"SOCIAL HISTORY: Social history significant for a - pack - year history of smoking, intravenous drug abuse in the [ * * * * ] and [ * * * * ], ethanol abuse.",False,False,False,False,False,False,True,True,True
+2552,12,"On the day prior to admission, ___, he sniffed heroin at home because his arm hurt and he did not want to inject himself.",True,False,False,False,False,False,False,True,True
+469,140,"The patient has a long history of substance abuse, which she has not been very forthcoming about.",False,False,False,False,False,False,False,True,True
+803,64,% on room air.,False,False,False,False,False,False,False,False,False
+197,9,"Then woke up yesterday with ""symptoms"" of ___ withdrawal, which he describes as sweats/diarrhea/total body pain/restlessness/blurry vision/head pressure/nausea and elevated BP.",False,False,False,False,False,False,False,False,False
+193,76,"This is a separate, but related problem.",False,False,False,False,False,False,False,False,False
+747,144,"Alert and oriented x3 nonfocal Ambulating, gait steady Sternal pain managed with oral analgesics Sternal Incision - healing well, no erythema or drainage Edema 1+",False,False,False,False,False,False,False,False,False
+402,55,"Axis I: polysubstance dependence (opiates, ETOH, benzos, THC) substance-induced mood disorder history of bipolar disorder history of conduct disorder Axis II: cluster B traits Axis III: history of lithium toxicity status post overdose history of hepatitis C virus infection Axis IV: severe psychosocial stressors identified Axis V: GAF upon discharge: 35 Discharge Condition: scruffy-appearing thin young man sitting in chair wearing casual clothing, not restless, improved eye contact; speech: WNL; mood: ""okay""; affect: slightly irritable & dysphoric, full-range; TC: constricted (but improving) future orientation, no psychotic content appreciated; TP: generally linear and goal-directed; I/J: limited/poor.",False,False,False,True,False,True,False,True,True
+933,26,"Cirrhosis, from HBV and etoh Hepatitis B, presumably contracted via IVDA Asthma, several hospitalizations in distant past, no intubations Social History:",False,False,False,False,False,False,True,True,True
+250,32,"On interview at the time of transfer to the medical floor, he reports he was at a friend's house and smoked what he thought was a blunt.",False,False,False,False,False,False,False,True,True
+244,23,Current treaters and treatment: ___ at ___ in ___.,False,False,False,False,False,False,False,False,False
+260,72,"Despite lack of fever of leukocytosis, L hip aspiration performed ___ to rule out infection, particularly given history of IVDU.",False,False,False,False,False,False,True,True,True
+181,12,"He otherwise denies fevers/chills, sore throat, cough, chest pain, SOB, n/v, diarrhea, hematochezia, melena, abd pain, rash, or easy bruising",False,False,False,False,False,False,False,False,False
+2637,92,# Polysubstance abuse:,False,False,False,False,False,False,False,True,True
+204,96,Septic emboli should be considered given history of IVDA.,False,False,False,False,False,False,True,True,True
+207,112,"Thought to be multifactorial in etiology including pneumonia, narcotic overdose and thoracic pulmonary fluid collections (question of bronchopleural fistula/empyema/abscess) noted on CT chest.",False,False,False,False,False,False,False,True,True
+211,161,#Hyperglycemia:,False,False,False,False,False,False,False,False,False
+432,114,"EKG: ====== QRS Trend 220->150->124->114->112->116->122->130-> --> --> 110->___ male who presents after a witnessed consumption of 70 tabs of 100 mg amitriptyline who subsequently became unresponsive, was intubated ___ the field, and ?seized, ___ setting of TCA overdose.",False,False,False,False,False,False,False,True,True
+152,114,"You had initially wanted to go to a detox center, but subsequently decided to arrange this on your own.",False,False,False,False,False,False,False,True,True
+2502,4,The pt reports a past history of heroin abuse with recent relaps six months ago.,True,False,False,False,False,False,False,True,True
+997,102,"Patient initially required oxygen of about four liters, and decreased her oxygen requirements down to one liter with oxygen saturations of percent by the time of discharge.",False,False,False,False,False,False,False,False,False
+48,117,The patient had required aggressive skin care because of a right sacral decubitus ulcer.,False,False,False,False,False,False,False,False,False
+470,97,Streaky bibasilar opacities likely reflect atelectasis.,False,False,False,False,False,False,False,False,False
+117,28,4. Chronic anemia 5.,False,False,False,False,False,False,False,False,False
+2546,14,Social History: ___ Family History: unable to obtain Physical Exam:,False,False,False,False,False,False,False,False,False
+2643,15,"Past Medical History: PMH: PVD w/ aortobifem BPG, known left SFA occlusion, Claudication, Carotid stenosis, Positive stress test s/p negative cardiac cath in ___, DM, HTN, H, Hep C PSH: Aortobifem ___ SOC:** current heroin abuse **",True,False,False,False,False,False,False,True,True
+578,120,5. Anemia of chronic liver disease:,False,False,False,False,False,False,False,False,False
+390,73,RHYTHM: The patient is chronically DDD paced.,False,False,False,False,False,False,False,False,False
+700,7,Major Surgical or Invasive Procedure: cardiac catheterization History of Present Illness:,False,False,False,False,False,False,False,False,False
+2530,48,The team reviwed how he is likely using heroin as an antianxiety agent to mask feelings of low left esteem and aggression and offered him therapy regarding such.,True,False,False,False,False,False,False,True,True
+388,146,q. p. m.,False,False,False,False,False,False,False,False,False
+193,6,No Known Allergies to Drugs Attending: [ * * <<NAME>>,False,False,False,False,False,False,False,False,False
+843,92,5. You may not drive a car until cleared to do so by your surgeon.,False,False,False,False,False,False,False,False,False
+329,47,Transient ischemic attack.,False,False,False,False,False,False,False,False,False
+358,38,Skin: no rashes or lesions noted.,False,False,False,False,False,False,False,False,False
+625,108,"It was felt her weakness likely resulted from muscle breakdown, complicated by fluid overload causing nerve compression, and distal neuropathy secondary to alcohol and drug use.",False,False,False,False,False,False,False,True,True
+435,160,4) We STARTED you on TRAMADOL 50mg every 6 hours as needed for pain.,False,False,False,False,False,False,False,False,False
+192,79,<<NAME>>,False,False,False,False,False,False,False,False,False
+599,49,"No nuchal rigidity Pulmonary: Lungs CTA bilaterally without R/R/W Cardiac: RRR, nl. S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.",False,False,False,False,False,False,False,False,False
+115,33,Brief Hospital Course: ___ yo M with h/o IVDU that denied recent dug use that presents from OSH with elevated AST/ALT to 1000's.,False,False,False,False,False,False,True,True,True
+260,24,"Past Medical History: PMH: 1. Hepatitis C, reportedly as result of IVDU 2. h / o compartment syndrome in RLE in [ * * * * ]",False,False,False,False,False,False,True,True,True
+206,58,___ 09:15AM BLOOD WBC-7.5 RBC-3.94* Hgb-12.7* Hct-36.6* MCV-93 MCH-32.2* MCHC-34.7 RDW-11.3 RDWSD-38.5 Plt ___ ___ 09:15AM BLOOD Glucose-171* UreaN-16 Creat-1.2 Na-138 K-4.3 Cl-101 HCO3-25 AnGap-12 ___ 09:15AM BLOOD Calcium-9.0 ___ 03:40PM BLOOD HIV Ab-NEG ___ 12:21AM BLOOD Lactate-1.___,False,False,False,False,False,False,False,True,True
+503,149,Celexa prescribed by other provider ___: Home Discharge Diagnosis: PRIMARY DIAGNOSIS non ST elevation myocardial infarction (NSTEMI) coronary artery disease (CAD) .,False,False,False,False,False,False,False,False,False
+371,34,STRESS TEST: TOTAL EXERCISE TIME: 4.25 % MAX HRT RATE ACHIEVED: 60 ST DEPRESSION: NONE INTERPRETATION: ___ yo male smoker with a h/o substance abuse was,False,False,False,False,False,False,False,True,True
+154,109,"TRANSITIONAL ISSUES: - Nafcillin 2g IV q4h to complete 6-week course (end-date: ___ MSSA bacteremia c/b abscesses and osteomyelitis - weekly AST, ALT, AlkP, TBili, CBC/diff, BUN, Cre, CRP, ESR while on nafcillin - try to taper opioids as soon as possible in patient w/ h/o IVDU - monitor for evidence of worsening renal function.",False,False,False,False,False,False,True,True,True
+2532,123,"HIV, ERCP s/p Stent, bipolar w/ multiple prior psych hospitalizations, who was transferred from ___ after polysubstance overdose.",False,False,False,False,False,False,False,True,True
+429,378,"Pt admitted w/ known large tricuspid valve vegetation and septic emboli to the lungs, most likely secondary to his IVDU (admitted use on ___ for worsening back pain).",False,False,False,False,False,False,True,True,True
+522,81,Discharge Disposition: Home With Service Facility: ___ Discharge Diagnosis:,False,False,False,False,False,False,False,False,False
+472,148,Likely from sepsis vs opiate/alcohol withdrawal.,False,False,False,False,False,False,False,True,True
+498,28,-2 mm pulmonary nodule right middle lobe.,False,False,False,False,False,False,False,False,False
+253,57,Patient notably did have UDS positive for benzodiazepines.,False,False,False,True,False,False,False,True,True
+729,71,Epinephrine was added on POD2 for low mixed venous sat.,False,False,False,False,False,False,False,False,False
+204,6,"The patient is a ___ female with history of opioid abuse now on methadone maintenance ___ years who presented to ___ with severe shoulder pain, erythema, and tenderness that began 5 days prior to presentation.",False,False,False,False,False,False,False,True,True
+552,28,The patient's weight-bearing status is weight bearing as tolerated with the ___ Brace locked in full extension on the operative extremity.,False,False,False,False,False,False,False,False,False
+301,263,Care Facility: ___ Discharge Diagnosis: Bacterial and fungal infection of the blood without evidence of infection of the heart Anterior chest abscess Substance abuse,False,False,False,False,False,False,False,True,True
+86,65,Breast examination revealed no palpable masses.,False,False,False,False,False,False,False,False,False
+983,5,"This is a year old male with a history of HIV, Hepatitis C, intravenous drug abuse and poly - substance abuse, who was admitted from an outside hospital with continued mental status changes after being [ * * <<DATE>> * * ].",False,False,False,False,False,False,True,True,True
+407,92,He endorsed last IV heroin use was a few days prior to admission on ___.,True,False,False,False,False,False,True,True,True
+90,101,4. Hx of polysubstance abuse:,False,False,False,False,False,False,False,True,True
+481,14,The patient was given dose of levofloxacin.,False,False,False,False,False,False,False,False,False
+240,18,"Urine tox positive for opiates and cocaine, +ketones.",False,True,False,False,False,False,False,True,True
+2569,10,"EMS was unable to place IV, and pt apparently endorsed long history of IVDU, with dx of HCV.",False,False,False,False,False,False,True,True,True
+671,35,A head computed tomography revealed right temporoparietal subarachnoid hemorrhage with no shift.,False,False,False,False,False,False,False,False,False
+284,16,"PSYCHIATRIC HISTORY: - Dx: Opiate dependence, cocaine abuse, mood disorder NOS - Hospitalizations:",False,True,False,False,False,False,False,True,True
+186,26,"No clubbing, cyanosis, or edema NEURO: Alert and awake, conversant, moving all four extremities without difficulty, no asterixis, no pronator drift.",False,False,False,False,False,False,False,False,False
+260,15,"Pt only admits to taking tabs tylenol and did not admit to Klonapin OD; stated that he took the pills with """" a lot of beer """" and a fifth of vodka.",False,False,False,False,False,False,False,True,True
+440,7,"She noticed ""pimple-like"" lesions that developed on her arm pits initially approximately 1 week ago, and have since spread all over her body.",False,False,False,False,False,False,False,False,False
+803,121,"The patient does have a history of depression, as well as a history of substance abuse.",False,False,False,False,False,False,False,True,True
+585,66,"#ABNORMAL PAP SMEAR: Patient had high risk HPV on pap smear in ___, will need colposcopy for further evaluation as outpatient. . #COCAINE ABUSE: She has a history of IVDA although reports not injecting in over one year; actively smoking cocaine .",False,True,False,False,False,False,True,True,True
+149,74,"Reports that pt has terrible insomnia over the last few months, and that he has been attempting to self-medicate on his own and mixing medications in attempts to sleep.",False,False,False,False,False,False,False,True,True
+655,99,7. Epogen units every Thursday.,False,False,False,False,False,False,False,False,False
+550,7,"She added that he uses substances, including Percocet and Vicodin and that he was admitted for detox in ___.",False,False,False,False,True,False,False,True,True
