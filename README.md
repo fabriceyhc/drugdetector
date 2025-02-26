@@ -17,11 +17,11 @@ pip install llama-cpp-python \
 
 Where `<cuda-version>` is one of the following:
 
-cu121: CUDA 12.1
-cu122: CUDA 12.2
-cu123: CUDA 12.3
-cu124: CUDA 12.4
-cu125: CUDA 12.5
+- cu121: CUDA 12.1
+- cu122: CUDA 12.2
+- cu123: CUDA 12.3
+- cu124: CUDA 12.4
+- cu125: CUDA 12.5
 
 You can find what version of CUDA you support via `nvidia-smi` and looking for the `CUDA Version` in the top right corner. 
 
@@ -58,7 +58,7 @@ print(results)
  'Injection Drugs': False,
  'General Drugs': True,
  'medical_text': 'Patient denies using heroin but reports cocaine use.',
- 'time_taken': 9.533252477645874}
+ 'time_taken': 0.5203254222869873}
 ```
 
 
@@ -87,7 +87,7 @@ print(results)
 {'Alcohol': True,
  'Fentanyl': False,
  'medical_text': 'Patient hx of ethl use.',
- 'time_taken': 2.379117965698242}
+ 'time_taken': 0.5203254222869873}
 ```
 ### Detection with custom drug dict and explanations provided
 Demonstrates the model's ability to explain its decisions.
@@ -105,7 +105,7 @@ print(results)
 {'Alcohol': True,
  'Fentanyl': False,
  'medical_text': 'Patient hx of ethl use.',
- 'time_taken': 45.255696296691895,
+ 'time_taken': 1.1692967414855957,
  'Alcohol_explanation': 'The medical note mentions "ethl use", which is likely referring to ethanol, the scientific name for alcohol.',
  'Fentanyl_explanation': 'There is no mention of Fentanyl use in the medical note.'}
 ```

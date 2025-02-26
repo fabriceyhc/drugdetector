@@ -92,10 +92,12 @@ class DrugDetector:
                 {f'{n}'.join([f'{drug}: {description}' for drug, description in self.drugs.items()])}
 
                 Special Notes:
-                1. Mentioning a drug is not sufficient. You are looking for illicit use of the drug in the medical note. 
-                2. If the note warns against the use of a particular drug, that does not mean the patient is actually using the drug. 
-                3. If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then set "Heroin" to false.
-                4. Many opioids are appropriately used and should not be noted. When it comes to prescription opioids, we only want you to identify cases where the patient is not using them appropriately. For example, if they are taking Percocets acquired from friends or from the streets, this would be considered illicit misuse. 
+                    1. The mere mention of a drug is not sufficient. You are only looking for illicit use of the drug in the medical note. Do not assume that a drug is being used illicitly without some evidence. 
+                    2. If the text warns against the use of a particular drug, that does not mean the patient is actually using the drug. 
+                    3. If family drug use is present, that is not relevant to the patient and should not be flagged. 
+                    4. If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then the label should be False. 
+                    5. Many opioids and benzodiazepines are appropriately used and should not be noted. We only want you to identify cases where the patient is not using them appropriately. For example, if they are taking Percocets acquired from friends or from the streets, this would be considered illicit misuse. 
+                    6. Medical recommendations about drugs do not mean the patient is actually using the drug. 
                 """
 
                 # Adding few-shot examples if any are provided

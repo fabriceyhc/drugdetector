@@ -199,30 +199,42 @@ def evaluate_program(program: dspy.Module,
     }
 
 
+import json
+import tempfile
+
 class ServerManager:
     """Context manager for SGLang server lifecycle."""
     
-    def __init__(self, model_id: str):
+    def __init__(self, model_id: str, chat_template: str):
         self.model_id = model_id
+        self.chat_template = chat_template
         self.process = None
         self.port = None
+        self.temp_file = None
 
     def __enter__(self):
         # GPU configuration
         cuda_devices = os.environ.get("CUDA_VISIBLE_DEVICES", "")
         num_gpus = len([d for d in cuda_devices.split(",") if d.strip()]) or 1
-        
+
         # Server launch
         server_cmd = (
             f"python -m sglang.launch_server --model-path {self.model_id} "
             f"--download-dir /data2/.shared_models/hf --tp {num_gpus}"
         )
+
+        if self.chat_template != "default":
+            server_cmd += f" --chat-template {self.chat_template}"
+        
         self.process, self.port = launch_server_cmd(server_cmd)
         wait_for_server(f"http://localhost:{self.port}")
         print(f"Server running on port {self.port}")
         return self
 
     def __exit__(self, exc_type, exc_val, exc_tb):
+        # Cleanup
+        if self.temp_file and os.path.exists(self.temp_file):
+            os.remove(self.temp_file)
         terminate_process(self.process)
         print("Server terminated")
 
@@ -238,14 +250,14 @@ class ExperimentConfig:
             (SinglelabelL, "singlelabel"),
             (SinglelabelEL, "singlelabel"),
         ]
-        self.demo_options = [0, 3, 5, 10]
+        self.demo_options = [0] # [0, 3, 5, 10]
 
 
-def main(model_id: str) -> None:
+def main(model_id: str, chat_template: str) -> None:
     """Main execution flow."""
     config = ExperimentConfig()
     
-    with ServerManager(model_id) as server:
+    with ServerManager(model_id, chat_template) as server:
         try:
             # Model setup
             lm = dspy.LM(
@@ -320,6 +332,12 @@ if __name__ == "__main__":
         default="meta-llama/Llama-3.1-8B-Instruct",
         help="Hugging Face model identifier"
     )
+    parser.add_argument(
+        "--chat_template",
+        type=str,
+        default="default",
+        help="File path to a chat template in jinja format. Default means use the format in tokenizer. Some models don't have a template specified."
+    )
     args = parser.parse_args()
     
-    main(args.model_id)
+    main(args.model_id, args.chat_template)

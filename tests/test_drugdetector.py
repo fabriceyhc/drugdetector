@@ -8,9 +8,8 @@ class TestDrugDetector(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.detector = DrugDetector(
-            model_id="meta-llama/Meta-Llama-3-8B-Instruct",
+            model_id="fabriceyhc/Llama-3-8B-DrugDetector",
             cache_dir="/data2/.shared_models/",
-            drugs=None
         )
 
     def test_0_default_drugs(self):

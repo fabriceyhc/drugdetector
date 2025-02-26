@@ -2,12 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name="drugdetector",
-    version="0.3.1",
+    version="0.3.3",
     packages=find_packages(),
     install_requires=[
         "accelerate", 
         "guidance",
-        "llama-cpp-python"
+        "llama-cpp-python",
         "transformers",
         "optimum",
     ],
