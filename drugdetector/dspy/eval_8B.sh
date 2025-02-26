@@ -1,0 +1,9 @@
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id meta-llama/Llama-3.1-8B-Instruct
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id fabriceyhc/Meta-Llama-3-8B-Instruct-DrugDetection-v3
+CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id ProbeMedicalYonseiMAILab/medllama3-v20
+CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id m42-health/Llama3-Med42-8B
+CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id aaditya/Llama3-OpenBioLLM-8B
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id emredeveloper/DeepSeek-R1-Medical-COT
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id ContactDoctor/Bio-Medical-Llama-3-8B
+# CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.eval --model_id ContactDoctor/Bio-Medical-Llama-3-8B-CoT-012025

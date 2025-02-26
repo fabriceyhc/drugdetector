@@ -2,30 +2,15 @@ import random
 import os
 import dspy
 import pandas as pd
-import textwrap
 import traceback
 import argparse
 from dspy.datasets import DataLoader
 from dspy.evaluate import Evaluate
 from sglang.utils import launch_server_cmd, wait_for_server, print_highlight, terminate_process
+from drugdetector.dspy.singlelabel.signatures import SinglelabelLE, SinglelabelEL, SinglelabelL
 
 # Constants
 SEED = 0
-DOC_STRING = """
-Determine whether the medical text contains reference to illicit drug use.
-Special Notes:
-    1. The mere mention of a drug is not sufficient. You are only looking for illicit use of the drug in the medical note. Do not assume that a drug is being used illicitly without some evidence. 
-    2. If the text warns against the use of a particular drug, that does not mean the patient is actually using the drug. 
-    3. If family drug use is present, that is not relevant to the patient and should not be flagged. 
-    4. If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then the label should be False. 
-    5. Many opioids and benzodiazepines are appropriately used and should not be noted. We only want you to identify cases where the patient is not using them appropriately. For example, if they are taking Percocets acquired from friends or from the streets, this would be considered illicit misuse. 
-    6. Medical recommendations about drugs do not mean the patient is actually using the drug.          
-"""
-MEDICAL_TEXT = "A medical text containing potentially illicit drug use by a patient."
-DRUG_NAME = "The name of the illicit drug to detect."
-DRUG_DESC = "A description of the illicit drug."
-LABEL = "Whether the illicit drug is detected in the medical note."
-EXPLANATION = "Explanation for the detection status."
 
 DRUG_DESCRIPTIONS = {
     "heroin": "Heroin is an illegal opioid drug known for its high potential for addiction and overdose.",
@@ -38,35 +23,8 @@ DRUG_DESCRIPTIONS = {
     "general_drug_use": "General drug use refers to the use of any illegal or illicit substances.",
 }
 
-
-class ClassifyLE(dspy.Signature):
-    DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
-    drug_name: str = dspy.InputField(desc=DRUG_NAME)
-    drug_description: str = dspy.InputField(desc=DRUG_DESC)
-    explanation: str = dspy.OutputField(desc=EXPLANATION)
-    label: bool = dspy.OutputField(desc=LABEL)
-
-class ClassifyEL(dspy.Signature):
-    DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
-    drug_name: str = dspy.InputField(desc=DRUG_NAME)
-    drug_description: str = dspy.InputField(desc=DRUG_DESC)
-    explanation: str = dspy.OutputField(desc=EXPLANATION)
-    label: bool = dspy.OutputField(desc=LABEL)
-
-class ClassifyL(dspy.Signature):
-    DOC_STRING
-    medical_text: str = dspy.InputField(desc=MEDICAL_TEXT)
-    drug_name: str = dspy.InputField(desc=DRUG_NAME)
-    drug_description: str = dspy.InputField(desc=DRUG_DESC)
-    label: bool = dspy.OutputField(desc=LABEL)
-
-
-
 def score_detection(example, prediction, trace=None):
     return prediction.label == example.label
-
 
 # Dataset Preparation
 def prepare_dataset(file_path, max_rows=None):
@@ -100,7 +58,7 @@ def evaluate_model(evaluator, model, signature_name, module_name, num_demos, tra
     optimized_model = optimizer.compile(model, trainset=trainset, requires_permission_to_run=False)
     post_score = evaluator(optimized_model, metric=score_detection)
 
-    save_path = f'./drugdetection/dspy/singlelabel/optimized_prompts/{model_id}/MIPROv2_{module_name}-{signature_name}_demos={num_demos}.json'
+    save_path = f'./drugdetector/dspy/singlelabel/optimized_prompts/{model_id}/MIPROv2_{module_name}-{signature_name}_demos={num_demos}.json'
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     optimized_model.save(save_path, save_program=False)
     
@@ -148,8 +106,8 @@ def main(model_id):
 
         MODULES = [dspy.Predict, dspy.ChainOfThought]
         SIGNATURES = [
-            ClassifyL,
-            ClassifyLE, ClassifyEL
+            SinglelabelL,
+            SinglelabelLE, SinglelabelEL
         ]
         NUM_DEMOS_OPTIONS = [0, 3, 5, 10]
 
@@ -169,7 +127,7 @@ def main(model_id):
                     results.append(result)
 
         # Ensure summary save directory exists
-        summary_dir = f"./story_eval/dspy/singlelabel/optimized_prompts/{model_id}"
+        summary_dir = f"./drugdetector/dspy/singlelabel/optimized_prompts/{model_id}"
         os.makedirs(summary_dir, exist_ok=True)
         pd.DataFrame(results).to_csv(f"{summary_dir}/summary.csv")
         terminate_process(server_process)
@@ -181,7 +139,7 @@ def main(model_id):
 
 if __name__ == "__main__":
 
-    # CUDA_VISIBLE_DEVICES=1 python -m story_eval.dspy.singlelabel.annotate --model_id meta-llama/Llama-3.1-8B-Instruct
+    # CUDA_VISIBLE_DEVICES=1 python -m drugdetector.dspy.singlelabel.annotate --model_id meta-llama/Llama-3.1-8B-Instruct
 
     parser = argparse.ArgumentParser(
         description="Evaluate a model using SGLang for singlelabel tasks with a specified Hugging Face model_id."

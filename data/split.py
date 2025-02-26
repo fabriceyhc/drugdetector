@@ -13,10 +13,14 @@ def main():
                  'rx_opioid_misuse', 'cannabis', 'injection_drug_use', 'general_drug_use']
 
     # ----- Load Data -----
-    df = pd.read_csv(input_file)
+    df = pd.read_csv(input_file).drop_duplicates()
 
     # Create a helper column: True if any drug column is True, else False.
     df['has_drug'] = df[drug_cols].any(axis=1)
+
+    # For rows where any of the specified drug columns is True,
+    # update 'general_drug_use' to True.
+    df.loc[df[drug_cols].any(axis=1), 'general_drug_use'] = True
 
     # ----- Separate into Two Groups -----
     # Group of rows with any drug flag
