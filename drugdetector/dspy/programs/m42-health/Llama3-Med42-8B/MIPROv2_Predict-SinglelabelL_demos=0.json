@@ -1,0 +1,34 @@
+{
+  "lm": null,
+  "traces": [],
+  "train": [],
+  "demos": [],
+  "signature": {
+    "instructions": "Given a medical text, determine whether the specified drug is mentioned based on the provided drug description, and return a label indicating presence (True) or absence (False).",
+    "fields": [
+      {
+        "prefix": "Medical Text:",
+        "description": "A medical text containing potentially illicit drug use by a patient."
+      },
+      {
+        "prefix": "Drug Name:",
+        "description": "The name of the illicit drug to detect."
+      },
+      {
+        "prefix": "Drug Description:",
+        "description": "A description of the illicit drug."
+      },
+      {
+        "prefix": "Label:",
+        "description": "Whether the illicit drug is detected in the medical note."
+      }
+    ]
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.5",
+      "cloudpickle": "3.1"
+    }
+  }
+}

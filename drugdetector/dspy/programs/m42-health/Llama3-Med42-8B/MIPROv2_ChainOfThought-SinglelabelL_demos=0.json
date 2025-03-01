@@ -1,0 +1,40 @@
+{
+  "predict": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Analyze the provided medical text for any explicit or implicit indications of the specified drug (identified by `drug_name` and described by `drug_description`). If a clear connection is found, assign `label` as True; otherwise, assign `label` as False. Provide a detailed reasoning statement explaining the decision in the `reasoning` field.",
+      "fields": [
+        {
+          "prefix": "Medical Text:",
+          "description": "A medical text containing potentially illicit drug use by a patient."
+        },
+        {
+          "prefix": "Drug Name:",
+          "description": "The name of the illicit drug to detect."
+        },
+        {
+          "prefix": "Drug Description:",
+          "description": "A description of the illicit drug."
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Label:",
+          "description": "Whether the illicit drug is detected in the medical note."
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.5",
+      "cloudpickle": "3.1"
+    }
+  }
+}

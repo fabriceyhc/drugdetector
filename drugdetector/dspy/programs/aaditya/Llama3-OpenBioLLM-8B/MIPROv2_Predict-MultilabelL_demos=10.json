@@ -1,0 +1,169 @@
+{
+  "lm": null,
+  "traces": [],
+  "train": [],
+  "demos": [
+    {
+      "augmented": true,
+      "medical_text": "Portal and IVC wave forms are not significantly changed in the interval.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": false
+    },
+    {
+      "augmented": true,
+      "medical_text": "Currently at ___ inpatient detox program, previously abusing ___, heroine, Percocet, cocaine, smokes half a pack a day of cigarettes, alcohol drinks regularly, unemployed, lives alone.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    },
+    {
+      "augmented": true,
+      "medical_text": "Substance abuse history: - Started usng marijuana and EtOH at age ___. - During the period of ___ to ___ he stayed clear of drugs and says he had a good relationship with his family.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": true,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    },
+    {
+      "augmented": true,
+      "medical_text": "head injury (beaten int he head and hospitalized in ___ in ___ cocaine\/heroine abuse clean since ___, hep B and C negative.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": false
+    },
+    {
+      "medical_text": "The patient has a history of intravenous drug abuse, the last time in [ * * * * ], and is currently on Methadone.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": true,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "8. Spinal stenosis.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": false
+    },
+    {
+      "medical_text": "On the floor, patient feeling well.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": false
+    },
+    {
+      "medical_text": "Pt both benzo, fioricet, and oxycodone use, and urine tox was positive for benzo\/barbs\/oxycodone.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": true,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "Work up for etiology of acute liver failure was notable for active acute Hepatitis B infection (presumed contracted via IVDU 3 months prior to admission) and history of prior hepatitis C infection without active viral load.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": true,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "Patient with last use of IV heroin ___ at ___.",
+      "heroin": true,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": true,
+      "general_drug_use": true
+    }
+  ],
+  "signature": {
+    "instructions": "Given the fields `medical_text`, produce the fields `heroin`, `cocaine`, `methamphetamine`, `benzodiazepine`, `rx_opioid_misuse`, `cannabis`, `injection_drug_use`, `general_drug_use`.",
+    "fields": [
+      {
+        "prefix": "Medical Text:",
+        "description": "A medical text containing potentially illicit drug use by a patient."
+      },
+      {
+        "prefix": "Heroin:",
+        "description": "Whether the illicit use of heroin is detected in the medical note."
+      },
+      {
+        "prefix": "Cocaine:",
+        "description": "Whether the illicit use of cocaine is detected in the medical note."
+      },
+      {
+        "prefix": "Methamphetamine:",
+        "description": "Whether the illicit use of methamphetamines is detected in the medical note."
+      },
+      {
+        "prefix": "Benzodiazepine:",
+        "description": "Whether the illicit use of benzodiazepines is detected in the medical note."
+      },
+      {
+        "prefix": "Rx Opioid Misuse:",
+        "description": "Whether the illicit use of prescription opioids is detected in the medical note."
+      },
+      {
+        "prefix": "Cannabis:",
+        "description": "Whether the illicit use of cannabis is detected in the medical note."
+      },
+      {
+        "prefix": "Injection Drug Use:",
+        "description": "Whether the illicit use of injection drugs is detected in the medical note."
+      },
+      {
+        "prefix": "General Drug Use:",
+        "description": "Whether the illicit use of any drug is detected in the medical note."
+      }
+    ]
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.5",
+      "cloudpickle": "3.1"
+    }
+  }
+}

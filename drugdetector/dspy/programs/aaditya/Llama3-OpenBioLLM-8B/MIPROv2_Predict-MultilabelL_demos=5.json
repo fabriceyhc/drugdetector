@@ -1,0 +1,110 @@
+{
+  "lm": null,
+  "traces": [],
+  "train": [],
+  "demos": [
+    {
+      "medical_text": "-Opioids- denies current use, last use ___ year ago, denies regular use, trialed suboxone -Benzodiazepines -Tobacco- current use, x10-15 shooz pouches of powered tobacco to upper lip, first at ___ y\/o, when using cigarettes had been at 1PPD -Cannabis- denies current use, smoked daily ___ y\/o, last use at ___ y\/o -Cocaine- denies current use, trialed several times, denies regular use -Reports long history of substance use history, including detoxes, programs.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": true,
+      "rx_opioid_misuse": false,
+      "cannabis": true,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "Brief Hospital Course: ___ yo male with AIDS (CD4 112 VL <48 copies\/mL ___ on HAART, HCV (VL 21,000,000 IU\/mL in ___, depression, polysubstance abuse with recent IV drug use presented ___ with atypical chest pain, diaphoresis, cogwheel rigidity x2 weeks and persistent knee pain.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": true,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "Denied alcohol use but admitted to cannabis use, stating he smokes it about $25 per week.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": true,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    },
+    {
+      "medical_text": "Emergency",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": false
+    },
+    {
+      "medical_text": "DRUG DEPENDENCE: rec'd methadone 185mg x 1 on ___.",
+      "heroin": false,
+      "cocaine": false,
+      "methamphetamine": false,
+      "benzodiazepine": false,
+      "rx_opioid_misuse": false,
+      "cannabis": false,
+      "injection_drug_use": false,
+      "general_drug_use": true
+    }
+  ],
+  "signature": {
+    "instructions": "Given the fields `medical_text`, produce the fields `heroin`, `cocaine`, `methamphetamine`, `benzodiazepine`, `rx_opioid_misuse`, `cannabis`, `injection_drug_use`, `general_drug_use`.",
+    "fields": [
+      {
+        "prefix": "Medical Text:",
+        "description": "A medical text containing potentially illicit drug use by a patient."
+      },
+      {
+        "prefix": "Heroin:",
+        "description": "Whether the illicit use of heroin is detected in the medical note."
+      },
+      {
+        "prefix": "Cocaine:",
+        "description": "Whether the illicit use of cocaine is detected in the medical note."
+      },
+      {
+        "prefix": "Methamphetamine:",
+        "description": "Whether the illicit use of methamphetamines is detected in the medical note."
+      },
+      {
+        "prefix": "Benzodiazepine:",
+        "description": "Whether the illicit use of benzodiazepines is detected in the medical note."
+      },
+      {
+        "prefix": "Rx Opioid Misuse:",
+        "description": "Whether the illicit use of prescription opioids is detected in the medical note."
+      },
+      {
+        "prefix": "Cannabis:",
+        "description": "Whether the illicit use of cannabis is detected in the medical note."
+      },
+      {
+        "prefix": "Injection Drug Use:",
+        "description": "Whether the illicit use of injection drugs is detected in the medical note."
+      },
+      {
+        "prefix": "General Drug Use:",
+        "description": "Whether the illicit use of any drug is detected in the medical note."
+      }
+    ]
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.5",
+      "cloudpickle": "3.1"
+    }
+  }
+}

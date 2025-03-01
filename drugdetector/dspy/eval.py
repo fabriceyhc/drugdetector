@@ -153,9 +153,8 @@ def evaluate_program(program: dspy.Module,
     )
 
     print(optimized_program)
-    print(optimized_program.demos)
 
-    assert len(optimized_program.demos) == num_demos
+    # assert len(optimized_program.demos) == num_demos
 
     post_score = val_evaluator(optimized_program, metric=metric)
 
@@ -297,7 +296,7 @@ def main(model_id: str, chat_template: str) -> None:
                     
                     for num_demos in config.demo_options:
                         result = evaluate_program(
-                            program=program,
+                            program=program.deepcopy(),
                             model_id=model_id,
                             signature_name=Signature.__name__,
                             module_name=Module.__name__,

@@ -1,0 +1,60 @@
+{
+  "predict": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Analyze the provided `medical_text` field to detect potential illicit drug use by evaluating it against specific indicators. For each of the following categories, determine if the text indicates their presence or absence:\n\n1. **Heroin**: Check for explicit mentions of \"heroin\" or related terms indicating usage.\n2. **Cocaine**: Look for \"cocaine,\" \"coke,\" or other related terms.\n3. **Methamphetamine**: Identify mentions of \"meth,\" \"methamphetamine,\" or related usage indicators.\n4. **Benzodiazepine**: Check for \"benzodiazepine,\" \"benzos,\" or related terms.\n5. **Rx Opioid Misuse**: Look for mentions of prescription opioids, such as \"opioids,\" \"suboxone,\" or specific drug names.\n6. **Cannabis**: Identify references to \"cannabis,\" \"marijuana,\" or related terms.\n7. **Injection Drug Use**: Check for terms indicating injection, such as \"IV,\" \"needle use,\" or specific drug names used in that context.\n8. **General Drug Use**: Determine if any illicit drug use is mentioned, regardless of the specific substance.\n\nOutput boolean values for each category and provide a concise reasoning statement explaining the findings. Ensure that if information is missing or not explicitly stated, mark it as false where applicable, and note any assumptions made based on the provided text.",
+      "fields": [
+        {
+          "prefix": "Medical Text:",
+          "description": "A medical text containing potentially illicit drug use by a patient."
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Heroin:",
+          "description": "Whether the illicit use of heroin is detected in the medical note."
+        },
+        {
+          "prefix": "Cocaine:",
+          "description": "Whether the illicit use of cocaine is detected in the medical note."
+        },
+        {
+          "prefix": "Methamphetamine:",
+          "description": "Whether the illicit use of methamphetamines is detected in the medical note."
+        },
+        {
+          "prefix": "Benzodiazepine:",
+          "description": "Whether the illicit use of benzodiazepines is detected in the medical note."
+        },
+        {
+          "prefix": "Rx Opioid Misuse:",
+          "description": "Whether the illicit use of prescription opioids is detected in the medical note."
+        },
+        {
+          "prefix": "Cannabis:",
+          "description": "Whether the illicit use of cannabis is detected in the medical note."
+        },
+        {
+          "prefix": "Injection Drug Use:",
+          "description": "Whether the illicit use of injection drugs is detected in the medical note."
+        },
+        {
+          "prefix": "General Drug Use:",
+          "description": "Whether the illicit use of any drug is detected in the medical note."
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.5",
+      "cloudpickle": "3.1"
+    }
+  }
+}
