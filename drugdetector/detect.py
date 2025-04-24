@@ -12,10 +12,9 @@ n = "\n"
 
 class DrugDetector:
     def __init__(self, 
-                 model_id='fabriceyhc/Meta-Llama-3-8B-DrugDetector', 
+                 model_id='fabriceyhc/Llama-DrugDetector-8B-GGUF', 
                  model_type="gguf",
-                 filename="*00001*.gguf",
-                 additional_files=["*.gguf"],
+                 filename="*.gguf",
                  max_input_len=4096,
                  cache_dir=None,
                  device_map="auto",
@@ -31,7 +30,6 @@ class DrugDetector:
             model = Llama.from_pretrained(
                 repo_id=model_id,
                 filename=filename,
-                additional_files=additional_files,
                 cache_dir=cache_dir,
                 verbose=False,
                 n_gpu_layers=-1 if "auto" in device_map else device_map,
@@ -86,18 +84,22 @@ class DrugDetector:
 
             with user():
                 lm += f"""\
-                ### Task Description:
-                Please carefully review the following medical note for any mentions of drug use. 
+                You are a medical expert medical expert conducting important research where accuracy is essential.
+
+                Task: Analyze the provided medical text for references to illicit drug use, focusing on specific drug categories and adhering to special considerations.
+
                 Specifically look for mentions of the following drugs:
                 {f'{n}'.join([f'{drug}: {description}' for drug, description in self.drugs.items()])}
 
-                Special Notes:
-                    1. The mere mention of a drug is not sufficient. You are only looking for illicit use of the drug in the medical note. Do not assume that a drug is being used illicitly without some evidence. 
-                    2. If the text warns against the use of a particular drug, that does not mean the patient is actually using the drug. 
-                    3. If family drug use is present, that is not relevant to the patient and should not be flagged. 
-                    4. If the patient denies using a particular drug, do not mark that drug as being present. For example, if the note says "patient denied using heroin", then the label should be False. 
-                    5. Many opioids and benzodiazepines are appropriately used and should not be noted. We only want you to identify cases where the patient is not using them appropriately. For example, if they are taking Percocets acquired from friends or from the streets, this would be considered illicit misuse. 
-                    6. Medical recommendations about drugs do not mean the patient is actually using the drug. 
+                Special Considerations:
+                1. For unspecified "substance dependence," mark only "General Drug Use" as True
+                2. If no substances or drug-related behaviors are mentioned, mark all categories as False
+                3. Mark as False if information is missing or not explicitly stated
+                4. Warnings against drug use do not indicate patient use
+                5. Medical recommendations about drugs do not indicate patient use
+                6. Family drug use is not relevant to the patient
+                7. Only identify inappropriate use of opioids and benzodiazepines (e.g., acquired from friends or streets)
+                8. Patient denial of drug use should be marked as False
                 """
 
                 # Adding few-shot examples if any are provided
@@ -162,9 +164,8 @@ if __name__ == "__main__":
     # CUDA_VISIBLE_DEVICES=0 python -m drugdetector.detect
 
     detector = DrugDetector(
-        model_id="fabriceyhc/Llama-3-8B-DrugDetector",
+        model_id="fabriceyhc/Llama-DrugDetector-8B-GGUF",
         cache_dir="/data2/.shared_models/",
-        model_type="gguf",
     )
 
     result = detector.detect(medical_text="Patient denies using heroin but reports cocaine use.")
