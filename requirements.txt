@@ -1,10 +1,10 @@
 accelerate
-guidance
+guidance==0.1.16
 transformers
 optimum
 
 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu124 # or cuXXX (124 = 12.4) depending on what you see for CUDA Version after running nvidia-smi
-llama-cpp-python==0.2.82
+llama-cpp-python==0.3.4
 
 dspy==2.6.0
 uv
